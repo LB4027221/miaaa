@@ -1,0 +1,22 @@
+query GET_MASTER($id: ID!, $pageSize: Int!, $current: Int!, $components: [UpdateComponent]){
+  report:master(_id: $id){
+    __typename
+    _id
+    cname
+    columns{
+      __typename
+      title
+      dataIndex
+      key
+    }
+    dataSource(pageSize: $pageSize, current: $current, components: $components){
+      __typename
+      id
+      row{
+        __typename
+        column
+        value
+      }
+    } 
+  }
+}

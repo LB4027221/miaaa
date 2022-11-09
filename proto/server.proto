@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.grpc.examples.helloworld";
+option java_outer_classname = "HelloWorldProto";
+option objc_class_prefix = "HLW";
+
+package miaaaserver;
+
+import "google/protobuf/any.proto";
+
+message BuildRequest {
+  string filename = 1;
+  string worksheetName = 2;
+  string sql = 3;
+  string host = 4;
+  string user = 5;
+  string passwd = 6;
+  string reportId = 7;
+  google.protobuf.Any output = 8;
+  repeated google.protobuf.Any conf = 9;
+  bool clearSource = 10;
+}
+
+message BuildReply {
+  bool message = 1;
+}
+message GetBuildRequest {
+  string reportId = 1;
+}
+message GetBuildReply {
+  string data = 1;
+}
+
+message ReadRequest {
+  string reportId = 1;
+}
+message ReadReply {
+  string data = 1;
+}
+
+
+
+service Build {
+  rpc Build (BuildRequest) returns (BuildReply) {}
+  rpc GetBuild(GetBuildRequest) returns (GetBuildReply) {}
+}
+
+
+service Read {
+  rpc Read (ReadRequest) returns (ReadReply) {}
+}

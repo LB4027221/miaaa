@@ -1,0 +1,11 @@
+mutation USER_UNSUBSCRIBE($userId: ID!, $dingtalkId: ID!, $chartId: ID!) {
+  user{
+    _id
+    __typename
+    unsubscribe(userId: $userId, dingtalkId: $dingtalkId, chartId: $chartId){
+      __typename
+      success
+      data
+    }
+  }
+}

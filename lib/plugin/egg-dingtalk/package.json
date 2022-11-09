@@ -1,0 +1,83 @@
+{
+  "_from": "egg-dingtalk",
+  "_id": "egg-dingtalk@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-4Xy4QukkHZZijfvIzIXNmnHJD3c=",
+  "_location": "/egg-dingtalk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "egg-dingtalk",
+    "name": "egg-dingtalk",
+    "escapedName": "egg-dingtalk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/egg-dingtalk/download/egg-dingtalk-2.0.0.tgz",
+  "_shasum": "e17cb842e9241d96628dfbc8cc85cd9a71c90f77",
+  "_spec": "egg-dingtalk",
+  "_where": "/Users/mac/project/sxc/server/miaaa",
+  "author": {
+    "name": "TZ",
+    "email": "atian25@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/eggjs/egg/issues"
+  },
+  "bundleDependencies": false,
+  "ci": {
+    "version": "8, 10"
+  },
+  "dependencies": {
+    "node-dingtalk": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "egg plugin for dingtalk",
+  "devDependencies": {
+    "autod": "^3.0.1",
+    "egg": "^2.9.1",
+    "egg-bin": "^4.8.0",
+    "egg-ci": "^1.8.0",
+    "egg-mock": "^3.17.3",
+    "eslint": "^5.2.0",
+    "eslint-config-egg": "^7.0.0"
+  },
+  "eggPlugin": {
+    "name": "dingtalk"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "app",
+    "config"
+  ],
+  "homepage": "https://github.com/eggjs/egg-dingtalk#readme",
+  "keywords": [
+    "egg",
+    "eggPlugin",
+    "egg-plugin",
+    "dingtalk"
+  ],
+  "license": "MIT",
+  "name": "egg-dingtalk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eggjs/egg-dingtalk.git"
+  },
+  "scripts": {
+    "autod": "autod",
+    "ci": "npm run lint && npm run cov",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "test": "npm run lint -- --fix && npm run test-local",
+    "test-local": "egg-bin test"
+  },
+  "version": "2.0.0"
+}

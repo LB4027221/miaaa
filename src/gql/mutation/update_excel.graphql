@@ -1,0 +1,11 @@
+mutation UPDATE_EXCEL($filename: String, $data: Any, $ws: String) {
+  user {
+    _id
+    __typename
+    updateExcel(filename: $filename, data: $data, ws: $ws){
+      __typename
+      success
+      data
+    }
+  }
+}

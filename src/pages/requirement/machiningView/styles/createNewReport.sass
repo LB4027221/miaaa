@@ -1,0 +1,144 @@
+@import './color'
+@import './var'
+@import './mixin'
+
+.edit-wrap
+  background-color: $grey-50
+  padding-bottom: 100px
+
+.title
+  +supplement
+
+.app-container
+  display: flex
+  flex-direction: column
+  width: 100vw
+  margin: 0 auto
+
+.app-content
+  display: flex
+  flex-direction: column
+  width: 1250px
+  padding: 0 10px
+  margin: 0 auto
+  
+
+  .form
+    margin: 6px 0
+    padding: 8px 16px
+    background-color: $white
+    box-shadow: 0 0 4px $grey-100
+
+    pre
+      background: $white !important
+      padding: .5em 0 !important
+    
+    .remarks
+      padding: 16px
+      color: $grey-600
+      border-radius: 2px
+
+    .title
+      +body1
+      margin-bottom: 16px
+
+    .form-item
+      display: flex
+      align-items: flex-start
+      margin-bottom: 5px
+      padding: 10px 0
+      border-radius: 3px
+
+      .where-item
+        display: flex
+        align-items: flex-start
+
+      // &:hover
+      //   background-color: $grey-50
+
+      .index
+        margin-right: 13px
+        line-height: 30px
+        font-size: $content
+        color: $grey-500
+
+      .link
+        height: 28px
+        border-radius: 4px
+        line-height: 28px
+        padding: 0 8px
+        border: 1px solid$grey-400
+        display: flex
+        .table
+          color: $red
+        .key
+          color: $green
+
+      input
+        margin-right: 9px
+
+      .name
+        width: 160px
+
+      .cname
+        width: 160px
+
+      .annotate
+        flex: 1
+
+      .table-name
+        width: 328px
+        margin-right: 40px
+      
+      .action
+        line-height: 30px
+        margin-right: 14px
+        cursor: pointer
+
+        &:hover
+          color: $blue
+
+.radio-content
+  display: flex
+  flex-wrap: wrap
+  justify-content: flex-start
+  margin: 20px 0
+
+  .title
+    width: 100%
+    margin-bottom: 10px
+    +supplement
+    
+
+  .radio
+    position: relative
+    margin-bottom: 16px
+
+    label
+      display: block
+      width: 120px
+      height: 30px
+      line-height: 30px
+      text-align: center
+      border: 1px solid$grey
+      border-radius: 2px
+      position: relative
+      z-index: 1
+
+    input
+      width: 100px
+      height: 30px
+      opacity: 0
+      z-index: 2
+      position: absolute
+      top: 0
+      left: 0
+
+
+      &:checked + label
+        border-color: $blue
+        // background-color: $blue
+        color: $blue
+
+.modal-content
+  width: 300px

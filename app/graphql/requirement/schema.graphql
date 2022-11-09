@@ -1,0 +1,23 @@
+# 需求
+type Requirement {
+  _id: ID!
+  metaList(metaList: [RequirementMetaArgs]!): [RequirementMeta]!
+  cname: String!
+  isRealTime: Boolean!
+  remarks: String!
+}
+
+# 更新需求字段参数
+input RequirementMetaArgs {
+  _id: ID
+  alias: String!
+  annotate: String!
+}
+
+# 更新需求参数
+input RequirementArgs {
+  _id: ID!
+  cname: String!
+  remarks: String!
+  isRealTime: Boolean!
+}

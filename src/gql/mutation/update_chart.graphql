@@ -1,0 +1,11 @@
+mutation UPDATE_CHART($reportId: ID, $tplId: ID, $worksheet: String, $conf: Any) {
+  user {
+    _id
+    __typename
+    updateChart(reportId: $reportId, tplId: $tplId, worksheet: $worksheet, conf: $conf){
+      __typename
+      success
+      data
+    }
+  }
+}

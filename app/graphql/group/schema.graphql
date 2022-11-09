@@ -1,0 +1,8 @@
+type Group {
+  _id: ID
+  name: String
+  reportIds: [ID]
+  status: Int
+  creator: User
+  editor: User
+}

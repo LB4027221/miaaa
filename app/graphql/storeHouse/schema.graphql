@@ -1,0 +1,81 @@
+# 服务站
+type StoreHouse {
+  id: Int
+  key: String
+
+  # 名称
+  name: String
+
+  # 地址
+  address: String
+
+  # 电话
+  phone: String
+
+  # 创建时间
+  createTime: String
+
+  # 0:删除 1:可用
+  state: Int
+
+  # 仓库管理员
+  manager: String
+
+  # 仓库类型，0:中心仓；1:提货仓; 3:虚拟中心仓 ; 4:场外虚拟仓
+  houseType: Int
+
+  # 仓库区域码
+  areaCode: String
+
+  # 仓库区城市
+  cityCode: Int
+
+  # 投诉电话
+  complaintPhone: String
+
+  # 小仓通用密码
+  password: Int
+  updateTime: String
+
+  # 市场类型(销售属性)
+  marketType: Int
+
+  # 市场属性(自然属性)1:普通，2:二批市场
+  marketAttribute: Int
+
+  # 调研市场id
+  surveyMarketID: Int
+
+  # 服务站截单时间
+  cutoffTime: String
+
+  # 服务站下单高峰期
+  peakHour: String
+
+  # 服务站是否关停（0关停，1营业中）
+  status: Int
+
+  # 最早到货时间
+  arriveNeedStartTime: String
+
+  # 最晚到货时间
+  arriveNeedEndTime: String
+
+  # 是否信任交接
+  isTrustHandover: Int
+
+  # 自动确认退货 0 不自动退货 1 自动退货
+  autoCheckReturnedFlag: Int
+
+  # 是否自动回框 0:自动回框 1:不自动回框
+  autoReturnPackage: Int
+
+  # 组织区域id
+  organizationZoneID: Int
+
+  # 直发要求最早到达时间
+  requireStartTime: String
+
+  # 直发要求最晚到货时间
+  requireEndTime: String
+}

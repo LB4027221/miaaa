@@ -1,0 +1,60 @@
+type Master {
+  _id: ID
+  name: String
+  # 报表中文名称
+  sort: Int
+  remarks: String
+  cname: String
+  # 提交人
+  user: User
+  # 编辑人
+  editor: User
+  usedOn: [String]
+  tags: [String]
+  SQL: String
+  countSQL: String
+  datePicker: [DatePicker]
+  components(name: String): [Component]
+  fullComponents(name: String): [Component]
+    # 表头
+  columns: [Column]
+
+  # 表字段
+  dataSource(pageSize: Int!, current: Int!, components: [UpdateComponent]): [Feed]
+
+  # 统计
+  total(components: [UpdateComponent]): Int
+  # 状态 3 查看报表 4 状态为下线 其他状态为可见
+  status: Int
+  limit: Int
+}
+
+type DatePicker {
+  state: Int
+  key: String
+  cname: String
+  name: String
+  defaultValue: String
+  label: String
+}
+
+input MasterComponentInputType {
+  name: String,
+  cname: String,
+  key: String,
+  defaultValue: String,
+  label: String,
+  state: Int
+}
+
+input MasterUpdateArgs {
+  name: String,
+  limit: Int,
+  cname: String!,
+  SQL: String!,
+  countSQL: String!,
+  status: Int,
+  user: String,
+  editor: String,
+  components: [MasterComponentInputType]
+}

@@ -1,0 +1,46 @@
+query GET_REPORTS {
+  user {
+    reports{
+      ...on Report{
+        __typename
+        _id
+        cname
+        sort
+        remarks
+        SelectIn: components(name: "SelectIn"){
+          __typename
+          _id
+          name
+          where
+          independent{
+            __typename
+            placeholder
+            labels
+            options
+          }
+        }
+        Search: components(name: "Search"){
+          __typename
+          _id
+          name
+          where
+          independent{
+            __typename
+            placeholder
+          }
+        }
+        RangePicker: components(name: "RangePicker"){
+          __typename
+          _id
+          name
+          where
+          label
+          independent{
+            __typename
+            useToday
+          }
+        }
+      }
+    }
+  }
+}

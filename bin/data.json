@@ -1,0 +1,290 @@
+{
+  "data": {
+    "__schema": {
+      "types": [
+        {
+          "kind": "OBJECT",
+          "name": "Query",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "User",
+          "possibleTypes": null
+        },
+        {
+          "kind": "UNION",
+          "name": "UnionReport",
+          "possibleTypes": [
+            {
+              "name": "Report"
+            },
+            {
+              "name": "Master"
+            }
+          ]
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Report",
+          "possibleTypes": null
+        },
+        {
+          "kind": "SCALAR",
+          "name": "ID",
+          "possibleTypes": null
+        },
+        {
+          "kind": "SCALAR",
+          "name": "String",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "TargetType",
+          "possibleTypes": null
+        },
+        {
+          "kind": "SCALAR",
+          "name": "Boolean",
+          "possibleTypes": null
+        },
+        {
+          "kind": "SCALAR",
+          "name": "Int",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "regionComponent",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "GroupBy",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "GroupByComponent",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "OrderBy",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Joins",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Meta",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Component",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Independent",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Column",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "UpdateComponent",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "UpdateIndependent",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Feed",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "FeedValue",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Master",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "DatePicker",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "UserVisibleCity",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "StoreHouse",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "UserNodes",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "UserRoles",
+          "possibleTypes": null
+        },
+        {
+          "kind": "SCALAR",
+          "name": "Float",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Database",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Table",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Group",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Mutation",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "UserMutate",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "FavoriteRes",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "ReportGroupArg",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "ReportsGroupRes",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "UserReportsGroup",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "authArgs",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Login",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "ExportExcelArgs",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "ExportExcelUserArg",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "ExportExcel",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "RequirementArgs",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "Requirement",
+          "possibleTypes": null
+        },
+        {
+          "kind": "INPUT_OBJECT",
+          "name": "RequirementMetaArgs",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "RequirementMeta",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "__Schema",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "__Type",
+          "possibleTypes": null
+        },
+        {
+          "kind": "ENUM",
+          "name": "__TypeKind",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "__Field",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "__InputValue",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "__EnumValue",
+          "possibleTypes": null
+        },
+        {
+          "kind": "OBJECT",
+          "name": "__Directive",
+          "possibleTypes": null
+        },
+        {
+          "kind": "ENUM",
+          "name": "__DirectiveLocation",
+          "possibleTypes": null
+        }
+      ]
+    }
+  }
+}

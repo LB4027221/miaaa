@@ -1,0 +1,9 @@
+mutation REMOVE_CHART($chartId: ID) {
+  user {
+    __typename
+    removeChart(chartId: $chartId){
+      __typename
+      success
+    }
+  }
+}

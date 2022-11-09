@@ -1,0 +1,25 @@
+query GET_CHART_ALL_REFS($chartId: ID!) {
+  user {
+    __typename
+    _id
+    chart(chartId: $chartId) {
+      _id
+      title
+      __typename
+      data
+      chartType
+      worksheet
+      report
+      conf
+      refs{
+        _id
+        title
+        __typename
+        chartType
+        worksheet
+        report
+        conf
+      }
+    }
+  }
+}

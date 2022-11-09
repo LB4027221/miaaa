@@ -1,0 +1,7 @@
+query GET_REPORT_COUNT($id: ID!, $pageSize: Int!, $components: [UpdateComponent]){
+  report(_id: $id, count: true){
+    __typename
+    _id
+    total(components: $components, pageSize: $pageSize)
+  }
+}

@@ -1,0 +1,17 @@
+mutation ADD_REPORTS_GROUP($group: ReportGroupArg!) {
+  user {
+    _id
+    __typename
+    addReportsGroup(group: $group) {
+      __typename
+      success
+      errorMessage
+      result{
+        __typename
+        _id
+        name
+        reportIds
+      }
+    }
+  }
+}

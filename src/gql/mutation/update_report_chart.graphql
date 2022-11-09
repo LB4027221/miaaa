@@ -1,0 +1,11 @@
+mutation UPDATE_REPORT_CHART($reportId: ID, $conf: Any) {
+  user {
+    _id
+    __typename
+    updateReportChart(reportId: $reportId, conf: $conf){
+      __typename
+      success
+      data
+    }
+  }
+}

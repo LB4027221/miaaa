@@ -1,0 +1,10 @@
+mutation EDIT_SCOMP($scomp: EditScompInput) {
+  user {
+    _id
+    __typename
+    editScomp(scomp: $scomp){
+      __typename
+      success
+    }
+  }
+}

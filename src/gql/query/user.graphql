@@ -1,0 +1,30 @@
+query GET_USER {
+  groups{
+    __typename
+    _id
+    name
+    reportIds
+  }
+  user {
+    __typename
+    _id
+    userId
+    userName
+    mobilePhone
+    dingding{
+      __typename
+      avatar
+      position
+      jobNo
+      dingtalkUserId
+      dingtalkId
+    }
+    favorite
+    roles{
+      __typename
+      roleId
+      roleName
+      state
+    }
+  }
+}

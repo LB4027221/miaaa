@@ -1,0 +1,13 @@
+# 需求
+type Schedule {
+  _id: ID!
+  tpl: Tpl
+  report: Report
+  pageSize: Int
+  components: [Component]
+  interval: String
+  status: Int
+  creator: User
+  editor: User
+  clearSource: Boolean
+}

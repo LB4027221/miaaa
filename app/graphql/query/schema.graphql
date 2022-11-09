@@ -1,0 +1,9 @@
+type Query {
+  user(appKey: String, bizCode: String): User
+  database(after: String, first: Int, before: String, last: Int, names: [String]): [Database]
+  reports(tags: [String], usedOn: [String]): [Report]
+  report(_id: ID!, count: Boolean): Report
+  master(_id: ID!): Master
+  groups: [Group]
+  scomp: [Scomp]
+}

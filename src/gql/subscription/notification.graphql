@@ -1,0 +1,8 @@
+subscription NOTIFICATION($userId: Int!) {
+  notification(userId: $userId){
+    __typename
+    description
+    message
+    type
+  }
+}

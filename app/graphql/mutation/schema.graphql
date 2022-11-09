@@ -1,0 +1,7 @@
+type Mutation {
+  user: UserMutate
+  login(mobilePhone: String!, password: String!): Login
+  exportExcel(excel: ExportExcelArgs): ExportExcel
+  updateRequirement(requirement: RequirementArgs!): Requirement,
+  updateMaster(_id: ID!, data: MasterUpdateArgs): Master
+}

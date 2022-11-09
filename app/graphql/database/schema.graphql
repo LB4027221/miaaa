@@ -1,0 +1,16 @@
+type Database {
+  # The ID of an object
+  id: ID!
+  name: String
+  isRealTime: Boolean
+  tables(names: [String], after: String, first: Int, before: String, last: Int): [Table]
+}
+
+type Table {
+  # The ID of an object
+  id: ID!
+  name: String
+  database: String
+  columns: [Column]
+}
+

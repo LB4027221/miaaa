@@ -1,0 +1,11 @@
+mutation BUILD_EXCEL($clearSource: Boolean, $interval: String, $reportId: ID, $filename: String, $pageSize: Int!, $current: Int!, $components: [UpdateComponent], $conf: Any) {
+  user {
+    _id
+    __typename
+    buildExcel(clearSource: $clearSource, interval: $interval, reportId: $reportId, filename: $filename, pageSize: $pageSize, current: $current, components: $components, conf: $conf) {
+      __typename
+      success
+      data
+    }
+  }
+}

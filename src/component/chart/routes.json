@@ -1,0 +1,521 @@
+[
+  {
+    "path": "splash_screen",
+    "routeName": "Splash-Screen",
+    "desc": "开屏页面"
+  },
+  {
+    "path": "playground",
+    "routeName": "Playground",
+    "desc": "测试页面"
+  },
+  {
+    "path": "entry",
+    "routeName": "Home-Entry",
+    "desc": "首页",
+    "config": {
+      "enablePullDownRefresh": true
+    }
+  },
+  {
+    "path": "user/login",
+    "routeName": "User-Login",
+    "desc": "绑定自定义手机号页面",
+    "config": {
+      "navigationBarTitleText": "手机验证"
+    }
+  },
+  {
+    "path": "user/home",
+    "routeName": "User-Home",
+    "desc": "用户个人主页",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "个人主页"
+    }
+  },
+  {
+    "path": "user/info",
+    "routeName": "User-Info",
+    "desc": "编辑个人资料页面",
+    "config": {
+      "navigationBarTitleText": "编辑资料"
+    }
+  },
+  {
+    "path": "user/info/follower",
+    "routeName": "User-Follower",
+    "desc": "关注粉丝页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "他的好友"
+    }
+  },
+  {
+    "path": "user/info/account",
+    "routeName": "User-Account",
+    "desc": "我的账户页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "账户"
+    }
+  },
+  {
+    "path": "user/info/appeal",
+    "routeName": "User-Appeal",
+    "desc": "提现申诉页面",
+    "config": {
+      "navigationBarTitleText": "身份证上传"
+    }
+  },
+  {
+    "path": "user/message",
+    "routeName": "User-Message",
+    "desc": "用户个人消息页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "消息"
+    }
+  },
+  {
+    "path": "user/business",
+    "routeName": "User-Business",
+    "desc": "用户发布的买卖信息页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "我的买卖"
+    }
+  },
+  {
+    "path": "user/login/entry",
+    "routeName": "User-Login-Entry",
+    "desc": "绑定用户手机入口页面",
+    "config": {
+      "navigationBarTitleText": "绑定"
+    }
+  },
+  {
+    "path": "user/login/info",
+    "routeName": "User-Login-Info",
+    "desc": "完善用户信息页面",
+    "config": {
+      "navigationBarTitleText": "完善信息"
+    }
+  },
+  {
+    "path": "user-opt/video/detail",
+    "routeName": "New-User-Video-Detail",
+    "desc": "新用户视频详情页面",
+    "config": {
+      "navigationBarTitleText": "视频详情"
+    }
+  },
+  {
+    "path": "user-opt/business/demand",
+    "routeName": "New-User-Business-Demand",
+    "desc": "新用户采购详情页面",
+    "config": {
+      "navigationBarTitleText": "采购详情"
+    }
+  },
+  {
+    "path": "user-opt/business/supply",
+    "routeName": "New-User-Business-Supply",
+    "desc": "新用户供应详情页面",
+    "config": {
+      "navigationBarTitleText": "供应详情"
+    }
+  },
+  {
+    "path": "user-opt/article/detail",
+    "routeName": "New-User-Article-Detail",
+    "desc": "新用户文章详情页面",
+    "config": {
+      "navigationBarTitleText": "文章详情",
+      "usingComponents": {
+        "wemark": "/static/wemark/wemark"
+      }
+    }
+  },
+  {
+    "path": "information/detail",
+    "routeName": "Information-Detail",
+    "desc": "动态详情页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "详情"
+    }
+  },
+  {
+    "path": "information/discharge_announcement",
+    "routeName": "Information-Discharge",
+    "desc": "动态详情页面",
+    "config": {
+      "navigationBarTitleText": "详情"
+    }
+  },
+  {
+    "path": "information/professional_broadcast",
+    "routeName": "Information-Voice-Professional",
+    "desc": "专业播报板块入口页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "专业播报"
+    }
+  },
+  {
+    "path": "information/voice_broadcast",
+    "routeName": "Information-Voice-Broadcast",
+    "desc": "语音播报板块入口页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "语音播报"
+    }
+  },
+  {
+    "path": "information/text_broadcast",
+    "routeName": "Information-Text-Broadcast",
+    "desc": "文字播报板块入口页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": ""
+    }
+  },
+  {
+    "path": "information/broadcast",
+    "routeName": "Information-Broadcast",
+    "desc": "行情播报统一入口页面",
+    "config": {
+      "enablePullDownRefresh": true,
+      "navigationBarTitleText": "行情播报"
+    }
+  },
+  {
+    "path": "information/article_list",
+    "routeName": "Information-Article-List",
+    "desc": "文章类目内文章列表页面",
+    "config": {
+      "enablePullDownRefresh": true
+    }
+  },
+  {
+    "path": "information/article_detail",
+    "routeName": "Information-Article-Detail",
+    "desc": "文章详情页面",
+    "config": {
+      "navigationBarTitleText": "",
+      "usingComponents": {
+        "wemark": "/static/wemark/wemark"
+      }
+    }
+  },
+  {
+    "path": "information/video/list",
+    "routeName": "Information-Video-List",
+    "desc": "短视频页面",
+    "config": {
+      "navigationBarTitleText": "短视频"
+    }
+  },
+  {
+    "path": "information/video/detail",
+    "routeName": "Information-Video-Detail",
+    "desc": "短视频详情页面",
+    "config": {
+      "navigationBarTitleText": "详情"
+    }
+  },
+  {
+    "path": "information/topic/list",
+    "routeName": "Information-Topic-List",
+    "desc": "专题文章板块入口页面",
+    "config": {
+      "navigationBarTitleText": "专题文章"
+    }
+  },
+  {
+    "path": "information/head_line",
+    "routeName": "Information-Head-Line",
+    "desc": "头条页面",
+    "config": {
+      "navigationBarTitleText": "头条"
+    }
+  },
+  {
+    "path": "quotation/history",
+    "routeName": "Quotation-History",
+    "desc": "最新价格板块入口页面",
+    "config": {
+      "navigationBarTitleText": "最新价格"
+    }
+  },
+  {
+    "path": "quotation/detail",
+    "routeName": "Quotation-Detail",
+    "desc": "产地SKU行情价格详情页面",
+    "config": {
+      "navigationBarTitleText": "行情详情"
+    }
+  },
+  {
+    "path": "quotation/data",
+    "routeName": "Quotation-Data",
+    "desc": "大数据页面",
+    "config": {
+      "navigationBarTitleText": "大数据"
+    }
+  },
+  {
+    "path": "market/situation",
+    "routeName": "Market-Situation",
+    "desc": "摄像头入口页面",
+    "config": {
+      "navigationBarTitleText": "摄像头"
+    }
+  },
+  {
+    "path": "market/weather",
+    "routeName": "Market-Weather",
+    "desc": "天气板块入口页面",
+    "config": {
+      "navigationBarTitleText": "产地天气"
+    }
+  },
+  {
+    "path": "common/location_search",
+    "routeName": "Page-LocationSearch",
+    "desc": "通用搜索页面",
+    "config": {
+      "navigationBarTitleText": "搜索市场"
+    }
+  },
+  {
+    "path": "common/multiple_selection",
+    "routeName": "Page-MultipleSelection",
+    "desc": "通用多选页面"
+  },
+  {
+    "path": "common/text_input",
+    "routeName": "Page-TextInput",
+    "desc": "通用输入页面"
+  },
+  {
+    "path": "common/video",
+    "routeName": "Page-Video",
+    "desc": "通用视频落地页面",
+    "config": {
+      "navigationBarTitleText": ""
+    }
+  },
+  {
+    "path": "broadcast/text",
+    "routeName": "Broadcast-Text",
+    "desc": "发布蒜友说说页面",
+    "config": {
+      "navigationBarTitleText": "发布行情"
+    }
+  },
+  {
+    "path": "business/supply/detail",
+    "routeName": "Supply-Detail",
+    "desc": "供应详情",
+    "config": {
+      "navigationBarTitleText": "供应详情"
+    }
+  },
+  {
+    "path": "business/demand/detail",
+    "routeName": "Demand-Detail",
+    "desc": "采购详情",
+    "config": {
+      "navigationBarTitleText": "采购详情"
+    }
+  },
+  {
+    "path": "business/recommend",
+    "routeName": "Goods-Recommend",
+    "desc": "推荐",
+    "config": {
+      "navigationBarTitleText": "推荐",
+      "enablePullDownRefresh": true
+    }
+  },
+  {
+    "path": "broadcast/voice",
+    "routeName": "Broadcast-Voice",
+    "desc": "发布语音播报页面",
+    "config": {
+      "navigationBarTitleText": "发布行情"
+    }
+  },
+  {
+    "path": "broadcast/professional",
+    "routeName": "Broadcast-Professional",
+    "desc": "发布专业播报页面",
+    "config": {
+      "navigationBarTitleText": "发布行情"
+    }
+  },
+  {
+    "path": "broadcast/business/supply",
+    "routeName": "Broadcast-Business-Supply",
+    "desc": "发布卖货信息页面",
+    "config": {
+      "navigationBarTitleText": "发布供应",
+      "usingComponents": {
+        "vtextarea": "/static/textarea/textarea"
+      }
+    }
+  },
+  {
+    "path": "broadcast/business/demand",
+    "routeName": "Broadcast-Business-Demand",
+    "desc": "发布买货信息页面",
+    "config": {
+      "navigationBarTitleText": "发布采购",
+      "usingComponents": {
+        "vtextarea": "/static/textarea/textarea"
+      }
+    }
+  },
+  {
+    "path": "share/information_detail",
+    "routeName": "Share-Information-Detail",
+    "desc": "行情动态-分享图片生成页面",
+    "config": {
+      "navigationBarTitleText": "分享行情"
+    }
+  },
+  {
+    "path": "share/user_info",
+    "routeName": "Share-User-Info",
+    "desc": "个人名片-分享图片生成页面",
+    "config": {
+      "navigationBarTitleText": "我的名片"
+    }
+  },
+  {
+    "path": "activity/job",
+    "routeName": "Activity-Job",
+    "desc": "招募信息员活动页面",
+    "config": {
+      "navigationBarTitleText": "招募信息员"
+    }
+  },
+  {
+    "path": "activity/article",
+    "routeName": "Activity-Article",
+    "desc": "文章活动页面(之前用于banner跳转)",
+    "config": {
+      "navigationBarTitleText": "精品文章"
+    }
+  },
+  {
+    "path": "activity/webview",
+    "routeName": "Activity-Webview",
+    "desc": "外链 H5 页面",
+    "config": {
+      "navigationBarTitleText": ""
+    }
+  },
+  {
+    "path": "activity/task",
+    "routeName": "Activity-Task",
+    "desc": "活动任务页面",
+    "config": {
+      "navigationBarTitleText": "完成任务领红包"
+    }
+  },
+  {
+    "path": "activity/supply",
+    "routeName": "Activity-Supply",
+    "desc": "货源活动",
+    "config": {
+      "navigationBarTitleText": "活动详情"
+    }
+  },
+  {
+    "path": "activity/quiz/list",
+    "routeName": "Activity-Quiz-List",
+    "desc": "竞猜活动",
+    "config": {
+      "navigationBarTitleText": "竞猜活动",
+      "enablePullDownRefresh": true
+    }
+  },
+  {
+    "path": "activity/quiz/content",
+    "routeName": "Activity-Quiz-Content",
+    "desc": "猜猜周三行情",
+    "config": {
+      "navigationBarTitleText": "猜猜周三行情"
+    }
+  },
+  {
+    "path": "activity/quiz/detail",
+    "routeName": "Activity-Quiz-Detail",
+    "desc": "竞猜详情",
+    "config": {
+      "navigationBarTitleText": "竞猜"
+    }
+  },
+  {
+    "path": "activity/quiz/list_winners",
+    "routeName": "Activity-Quiz-ListWinners",
+    "desc": "中奖名单",
+    "config": {
+      "navigationBarTitleText": "中奖名单"
+    }
+  },
+  {
+    "path": "activity/quiz/past_quiz",
+    "routeName": "Activity-Quiz-PastQuiz",
+    "desc": "往期竞猜",
+    "config": {
+      "navigationBarTitleText": "往期竞猜"
+    }
+  },
+  {
+    "path": "activity/h5_follow",
+    "routeName": "H5-Follow",
+    "desc": "关注公众号引导页面",
+    "config": {
+      "navigationBarTitleText": "关注攻略"
+    }
+  },
+  {
+    "path": "activity/banner_detail",
+    "routeName": "Banner-Detail",
+    "desc": "Banner 详情页面",
+    "config": {
+      "navigationBarTitleText": ""
+    }
+  },
+  {
+    "path": "activity/invite/entry",
+    "routeName": "Activity-Invite-Entry",
+    "desc": "拉新活动落地页面",
+    "config": {
+      "navigationBarTitleText": "推广合伙人",
+      "enablePullDownRefresh": true
+    }
+  },
+  {
+    "path": "activity/invite/rule",
+    "routeName": "Activity-Invite-Rule",
+    "desc": "拉新活动规则页面",
+    "config": {
+      "navigationBarTitleText": "活动规则",
+      "enablePullDownRefresh": true
+    }
+  },
+  {
+    "path": "business/goods",
+    "routeName": "Goods-Page",
+    "desc": "供需大厅页面",
+    "config": {
+      "navigationBarTitleText": "供需大厅",
+      "enablePullDownRefresh": true
+    }
+  }
+]

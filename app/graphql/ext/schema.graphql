@@ -1,0 +1,23 @@
+type Ext {
+  _id: ID
+  title: String
+  columns: [Any]
+  report: Report
+  linkReports: [Report]
+  linkExcel: [Excel]
+  status: Int
+  creator: User
+  editor: User
+}
+
+type UpdateExtRes {
+  success: Boolean
+  data: Any
+}
+
+input UpdateExtArg {
+  _id: ID
+  title: String
+  columns: [Any]
+  status: Int
+}

@@ -1,0 +1,19 @@
+type Grid {
+  _id: ID
+  title: String
+  sort: Int
+  status: Int
+  snapshot: String
+  description: String
+  items: [GridItem]
+}
+
+type GridItem {
+  _id: ID
+  i: String
+  x: Float
+  y: Float
+  w: Float
+  h: Float
+  chart: Chart
+}

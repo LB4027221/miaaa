@@ -1,0 +1,12 @@
+type Subscription {
+  notification(userId: Int!): Notification
+  notice(userId: ID!): SubMessage
+}
+
+type SubMessage {
+  _id: ID
+  target: ID
+  event: String
+  created: Date
+  context: Any
+}

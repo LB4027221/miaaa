@@ -1,0 +1,33 @@
+query GET_TPL($reportId: ID) {
+  user {
+    __typename
+    _id
+    tpl(report: $reportId) {
+      _id
+      __typename
+      title
+      filename
+      pageSize
+      creator{
+        _id
+        __typename
+      }
+      workbook{
+        conf
+        _id
+        name
+        __typename
+        data
+        charts{
+          __typename
+          report
+          worksheet
+          title
+          chartType
+          _id
+          conf
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+mutation CREATE_SCOMP($scomp: ScompInput) {
+  user {
+    _id
+    __typename
+    newScomp(scomp: $scomp){
+      __typename
+      success
+    }
+  }
+}

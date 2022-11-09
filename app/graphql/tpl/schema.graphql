@@ -1,0 +1,30 @@
+type Worksheet {
+  # wb id + name
+  conf: Any
+  _id: ID
+  # name
+  name: String
+  # show
+  state: String
+  # column and row
+  data: [Any]
+  # chart: Chart
+  charts: [Chart]
+}
+
+type Tpl {
+  _id: ID
+  title: String
+  pageSize: Int
+  creator: User
+  editor: User
+  report: Report
+  filename: String
+  workbook(worksheets: [String]): [Worksheet]
+  # build(_id: ID!): Report
+}
+
+type BuildExcel {
+  success: Boolean
+  data: Any
+}

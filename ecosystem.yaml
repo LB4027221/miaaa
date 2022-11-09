@@ -1,0 +1,38 @@
+apps:
+  - script : ./start.js
+    name   : 'SXCMiaReports'
+    env    :
+      COMMON_VARIABLE: true
+    env_production:
+      NODE_ENV: production
+deploy:
+  production:
+    user: dabiaoge
+    host:
+      - 120.26.89.173
+    port: 22
+    ref: origin/master
+    repo: git@121.40.208.242:platform-projects/miaaa.git
+    path: /www/reports/production
+    ssh_options: StrictHostKeyChecking=no
+    pre-deploy: git fetch --all
+    post-deploy: 'npm install && npm run build && npm run stop && npm run pandora-stop && NODE_ENV=production npm run pandora-start'
+    env:
+      ENABLE_NODE_LOG: YES
+      NODE_LOG_DIR: /www/reports/logs
+  plus:
+    user: dabiaoge
+    host:
+      - 120.26.89.173
+    port: 22
+    ref: origin/master
+    repo: git@121.40.208.242:platform-projects/miaaa.git
+    path: /www/reports/production
+    ssh_options: StrictHostKeyChecking=no
+    pre-deploy: git fetch --all
+    post-deploy: 'npm install && npm run cs & npm run stop && npm run pandora-stop && npm run pandora-start'
+    env:
+      ENABLE_NODE_LOG: YES
+      NODE_LOG_DIR: /www/reports/logs
+
+

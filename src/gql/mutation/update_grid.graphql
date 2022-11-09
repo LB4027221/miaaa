@@ -1,0 +1,11 @@
+mutation UPDATE_GRID($data: Any, $file: Upload) {
+  user {
+    _id
+    __typename
+    updateGrid(data: $data, file: $file){
+      __typename
+      success
+      data
+    }
+  }
+}

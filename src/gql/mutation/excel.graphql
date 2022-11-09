@@ -1,0 +1,8 @@
+mutation EXPORT_EXCEL($excel: ExportExcelArgs) {
+  exportExcel(excel: $excel) {
+    __typename
+    success
+    publicPath
+    errors
+  }
+}

@@ -1,0 +1,25 @@
+query GET_TPL($reportId: ID) {
+  user {
+    __typename
+    _id
+    schedule(report: $reportId) {
+      _id
+      __typename
+      pageSize
+      clearSource
+      interval
+      components{
+        __typename
+        _id
+        name
+        where
+        independent{
+          __typename
+          placeholder
+          labels
+          options
+        }
+      }
+    }
+  }
+}

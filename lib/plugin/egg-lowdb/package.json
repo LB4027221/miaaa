@@ -1,0 +1,8 @@
+{
+  "eggPlugin": {
+    "name": "lowdb"
+  },
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  }
+}

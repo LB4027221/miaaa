@@ -1,0 +1,23 @@
+query GET_REPORT($id: ID!, $pageSize: Int!, $current: Int!, $components: [UpdateComponent]){
+  report(_id: $id){
+    __typename
+    _id
+    remarks
+    cname
+    metaList{
+      alias
+      annotate
+      __typename
+    }
+    dataSource: webDataSource(pageSize: $pageSize, current: $current, components: $components){
+      __typename
+      columns{
+        __typename
+        name
+        type
+      }
+      data
+    } 
+    # total(components: $components)
+  }
+}

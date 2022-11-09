@@ -1,0 +1,7 @@
+query GET_MASTER($id: ID!, $pageSize: Int, $components: [UpdateComponent]){
+  report:master(_id: $id){
+    __typename
+    _id
+    total(components: $components, pageSize: $pageSize)
+  }
+}

@@ -1,0 +1,139 @@
+type Login {
+  success: Boolean
+  errorCode: String,
+  errorMessage: String,
+  result: User
+}
+
+type User {
+  _id: ID
+  # 报表接口，用于获取用户可查看报表列表
+  reports: [UnionReport]
+  userId: Int
+  userName: String
+  mobilePhone: String
+  userType: String
+  visibleCity: [UserVisibleCity]
+  city: String
+  # 业务 id
+  nodes: [UserNodes]
+  # 用户角色
+  roles: [UserRoles]
+  dingding: DingDing
+  # 用户收藏列表
+  favorite: [ID]
+  summary(reportId: ID, tags: [String], usedOn: [String], userId: Int, user: AppUser): [Summary]
+  excelList: [Excel]
+  ext(_id: ID): Ext
+  tpl(report: ID): Tpl
+  schedules: [Schedule]
+  schedule(report: ID): Schedule
+  chart(chartId: ID!): Chart
+  gridList: [Grid]
+  grid(_id: ID!): Grid
+  myGrid: Grid
+  subscription: [UserSubscription]
+}
+
+type UserSubscription {
+  _id: ID
+  status: Int
+  chartId: ID
+  dingtalkId: String
+}
+
+type DingDing {
+  jobNo: Float
+  dingtalkUserId: String
+  dingtalkId: String
+  # 职位
+  position: String
+  # 头像
+  avatar: String
+}
+
+# 用户报表分组
+type UserReportsGroup {
+  _id: ID
+  name: String
+  reportIds: [ID]
+}
+
+# 用户可见城市
+type UserVisibleCity  {
+  code: Int
+  name: String
+  storeHouses: [StoreHouse]
+}
+
+# 用户节点数据
+type UserNodes  {
+  bizId: Int
+  nodeName: String
+}
+
+# 用户角色列表
+type UserRoles {
+  roleId: Int
+  # 角色名称
+  roleName: String
+  state: Int
+}
+
+# 权限申请接口参数
+input authArgs {
+  owner: ID!
+  reportId: ID!
+  cname: String!
+}
+
+# 更新用户报表组的接口
+input ReportGroupArg {
+  _id: ID
+  name: String!
+  reportIds: [ID]
+}
+
+# 用户组返回数据接口
+type ReportsGroupRes {
+  success: Boolean
+  errorMessage: String
+  result: UserReportsGroup
+}
+
+# 更新用户收藏
+type FavoriteRes {
+  success: Boolean
+  errorMessage: String
+  result: [ID]
+}
+
+type Res {
+  success: Boolean
+  data: Any
+}
+
+# 用户相关接口
+type UserMutate {
+  _id: ID
+  subscribe(userId: ID!, chartId: ID!, dingtalkId: ID!): Res
+  unsubscribe(userId: ID!, chartId: ID!, dingtalkId: ID!): Res
+  updateGrid(data: Any, file: Upload): Res
+  updateExtRes(data: UpdateExtArg): UpdateExtRes 
+  createExcel(arg: CreateExcelArg): CreateExcelRes
+  editFavorite(reportIds: [ID]!): FavoriteRes
+  addReportsGroup(group: ReportGroupArg!): ReportsGroupRes
+  updateReportsGroup(group: ReportGroupArg!): ReportsGroupRes
+  delReportsGroup(groupId: ID!): ReportsGroupRes
+  beingAuthorizated(authArgs: authArgs!): String
+  editReport(_id: ID!, report: Any!): ReportRes
+  newScomp(scomp: ScompInput): ScompRes
+  editScomp(scomp: EditScompInput): ScompRes
+  toggleOnline(reportId: ID!): ToggleOnlineRes
+  updateChart(reportId: ID, tplId: ID, worksheet: String, conf: Any): UpdateChartRes
+  removeChart(chartId: ID): RemoveChartRes
+  updateReportChart(reportId: ID, conf: Any): UpdateReportChartRes
+  removeReportChart(chartId: ID): RemoveReportChartRes
+  buildExcel(clearSource: Boolean, reportId: ID, interval: String, filename: String, pageSize: Int!, current: Int!, components: [UpdateComponent], conf: Any): BuildExcel
+  updateExcel(filename: String, data: Any, ws: String): Res
+}

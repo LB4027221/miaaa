@@ -1,0 +1,8 @@
+query GET_SCOMP {
+  scomp{
+    __typename
+    key:_id
+    cname
+    sql
+  }
+}

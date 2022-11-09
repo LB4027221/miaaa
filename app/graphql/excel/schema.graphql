@@ -1,0 +1,17 @@
+type CreateExcelRes {
+  success: Boolean
+  data: Any
+}
+
+input CreateExcelArg {
+  title: String!
+  data: [[Any]]!
+}
+
+type Excel {
+  _id: ID
+  title: String
+  creator: User
+  editor: User
+  data: [[Any]]
+}

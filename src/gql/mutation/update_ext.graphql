@@ -1,0 +1,11 @@
+mutation UPDATE_EXT($data: UpdateExtArg) {
+  user {
+    _id
+    __typename
+    updateExtRes(data: $data){
+      __typename
+      success
+      data
+    }
+  }
+}

@@ -1,0 +1,137 @@
+type ReportRes {
+  metaList(report: Any!): Boolean
+  tabBorthers(report: Any!): [Report]
+  # child(report: ReportArgs!): Boolean
+  success: Boolean
+  errorMessage: String
+  result: Report
+}
+
+# 这里修改报表
+input ReportArgs {
+  _id: ID
+  alias: String
+  child: Any
+  reports: String
+  report: String
+  cname: String
+  tags: [String]
+  components: [editComponent]
+  database: String
+  databases: String
+  databaseArr: [String]
+  expJoin: String
+  friend: Any
+  groupBy: [GroupByInputType]
+  groupByComponents: [groupByComponentInputType]
+  isRealTime: Boolean
+  joins: [JoinsInputType]
+  limit: Int
+  metaList: [MetaInputType]
+  name: String
+  optGroupBy: [String]
+  orderBy: [OrderByInputType]
+  regionComponent: [regionComponentInputType]
+  restApi: String
+  sort: Int
+  tabBrothers: [ID]
+  table: String
+  target: String
+  targets: [TargetInputType]
+  usedOn: [String]
+  where: [String]
+  pickHouse: Boolean
+}
+
+input editComponent {
+  target: String
+  column: String
+  label: String
+  where: [String]
+  source: String
+  sourceKey: String
+  roles: [String]
+  independent: UpdateIndependent
+  show: Boolean
+  cname: String
+  key: String
+  # 是否为 App 入口
+  appEntry: Boolean
+  name: String
+}
+
+input regionComponentInputType {
+  options: String
+  name: String
+  key: String
+  cityTarget: String
+  cityColumn: String
+  storeHouseTarget: String
+  storeHouseColumn: String
+  show: Boolean
+  where: [String]
+  active: Boolean
+}
+
+input UpdateIndependent {
+  useToday: Boolean
+  options: [String]
+  labels: [String]
+  placeholder: String
+}
+
+input UpdateComponent {
+  _id: String
+  target: String
+  column: String
+  label: String
+  where: [String]
+  independent: UpdateIndependent
+  show: Boolean
+
+  # 是否为 App 入口
+  appEntry: Boolean
+  name: String
+}
+
+
+input TargetInputType {
+  database: String
+  table: String
+  alias: String
+  key: String
+}
+
+input groupByComponentInputType {
+  options: [String]
+  text: [String]
+  value: String
+  key: String
+}
+
+input GroupByInputType {
+  target: String
+  column: String
+}
+
+input OrderByInputType {
+  target: String
+  column: String
+  type: String
+  key: String
+}
+
+input JoinsInputType {
+  key: String
+  type: String
+  leftColumn: String
+  leftTarget: String
+  rightColumn: String
+  rightTarget: String
+}
+
+# 上下线回调
+type ToggleOnlineRes {
+  success: Boolean
+  errorMessage: String
+}

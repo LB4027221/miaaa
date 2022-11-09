@@ -1,0 +1,11 @@
+mutation USER_SUBSCRIBE($userId: ID!, $dingtalkId: ID!, $chartId: ID!) {
+  user{
+    _id
+    __typename
+    subscribe(userId: $userId, dingtalkId: $dingtalkId, chartId: $chartId){
+      __typename
+      success
+      data
+    }
+  }
+}

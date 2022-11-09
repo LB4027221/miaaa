@@ -1,0 +1,216 @@
+union UnionReport = Report | Master
+
+# 这是一份报表
+type Report {
+  _id: ID
+  restApi: String
+  alias: String 
+  friend: Report
+  # 应用于那个 App
+  usedOn: [String]
+
+  # 标签 主要区分是概要报表还是详情报表
+  tags: [String]
+
+  # 子报表
+  child: Report
+  database: String
+  databaseArr: [String]
+  targets: [TargetType]
+  isRealTime: Boolean
+  name: String
+  target: String
+  table: String
+  limit: Int
+  sort: Int
+  offset: Int
+  cname: String
+
+  # 报表状态, 4 状态为下线 其他状态为可见
+  status: Int
+
+  # 提交人
+  user: User
+
+  # 修改人
+  editor: User
+
+  # 需求修改人
+  requirementEditor: User
+
+  # 备注
+  remarks: String
+
+  # 城市微服务组件
+  regionComponent: [regionComponent]
+
+  # 自定义的 join 条件
+  expJoin: String
+
+  # 创建时间
+  createAt: Date
+
+  # 修改时间
+  updateAt: Date
+  tabBrothers: [Report]
+  groupBy: [GroupBy]
+  optGroupBy: [String]
+  groupByComponents: [GroupByComponent]
+  orderBy: [OrderBy]
+  optOrderBy: [String]
+  joins: [Joins]
+  metaList: [Meta]
+  components(name: String): [Component]
+  having: [Having]
+  fullComponents: [Component]
+  # 实验性功能
+  pickHouse: Boolean
+  # 表头
+  columns: [Column]
+
+  # 表字段
+  dataSource(pageSize: Int!, current: Int!, components: [UpdateComponent]): [Feed]
+  webDataSource(pageSize: Int!, current: Int!, components: [UpdateComponent]): TableDataSource
+
+  # 统计
+  total(components: [UpdateComponent], pageSize: Int!): Float
+  # 
+  # business: [Component]
+
+  # build(filename: String): Any
+  charts: [Chart]
+  ncharts: [ReportChart]
+}
+
+type Joins  {
+  # 内联 左联 右联
+  type: String
+  leftColumn: String
+  leftTarget: String
+  rightColumn: String
+  rightTarget: String
+}
+
+type OrderBy {
+  target: String
+  column: String
+  type: String
+}
+type Having {
+  target: String
+  column: String
+  type: String
+}
+
+type GroupBy {
+  target: String
+  column: String
+}
+
+type GroupByComponent {
+  options: [String]
+  text: [String]
+  value: String
+  key: String
+}
+
+type TargetType {
+  database: String
+  table: String
+  alias: String
+  key: String
+}
+
+type regionComponent {
+  options: String
+  name: String
+  cityTarget: String
+  cityColumn: String
+  storeHouseTarget: String
+  storeHouseColumn: String
+  show: Boolean
+  where: [String]
+  active: Boolean
+}
+
+
+type Component  {
+  _id: String
+  target: String
+  # sql
+  source: String
+  # 对应取用户字段里面的那个 key 值
+  sourceKey: String
+  # 应用角色
+  roles: [String]
+  column: String
+  label: String
+  where: [String]
+  independent: Independent
+  show: Boolean
+  cname: String
+  key: String
+  # 是否为 App 入口
+  appEntry: Boolean
+  state: Int
+  defaultValue: String
+  name: String
+}
+
+type Independent {
+  useToday: Boolean
+  options: [String]
+  labels: [String]
+  placeholder: String
+}
+
+type TableCol {
+  name: String
+  type: String
+}
+
+type TableDataSource {
+  columns: [TableCol]
+  data: [Any]
+}
+
+type Feed  {
+  id: String
+  row: [FeedValue]
+}
+
+type FeedValue  {
+  id: ID
+  column: String
+  name: String
+  value: String
+}
+
+type Column  {
+  title: String
+  dataIndex: String
+  key: String
+  name: String
+  type: String
+}
+
+# 导出
+input ExportExcelArgs {
+  _id: ID!
+  timestamp: Float!
+  user: ExportExcelUserArg!
+  components: [UpdateComponent]
+  max: Int,
+}
+
+input ExportExcelUserArg {
+  userName: String!
+  userId: Int!
+  mobilePhone: String!
+}
+
+type ExportExcel {
+  success: Boolean
+  publicPath: String
+  errors: [String]
+}

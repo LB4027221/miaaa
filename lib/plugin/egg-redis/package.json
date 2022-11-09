@@ -1,0 +1,8 @@
+{
+  "eggPlugin": {
+    "name": "redis"
+  },
+  "dependencies": {
+    "ioredis": "^3.2.2"
+  }
+}

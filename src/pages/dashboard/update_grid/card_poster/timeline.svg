@@ -1,0 +1,136 @@
+
+<svg width="1070px" height="283px" viewBox="0 0 1070 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M0,3.99793926 C0,1.78993837 1.79563232,0 4.00159832,0 L135.998402,0 C138.208423,0 140,1.79778412 140,3.99793926 L140,86.0020607 C140,88.2100616 138.204368,90 135.998402,90 L4.00159832,90 C1.79157659,90 0,88.2022159 0,86.0020607 L0,3.99793926 Z" id="path-1"></path>
+        <filter x="-9.3%" y="-12.2%" width="118.6%" height="128.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Templates-模板页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分析页" transform="translate(-312.000000, -1463.000000)">
+            <g id="Group-7" transform="translate(280.000000, 1263.000000)">
+                <g id="Group-31" transform="translate(32.000000, 194.000000)">
+                    <rect id="Rectangle-3" fill="#E9E9E9" x="30" y="260" width="1026" height="1"></rect>
+                    <rect id="Rectangle-8" fill="#E9E9E9" x="30" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy" fill="#E9E9E9" x="98.3333333" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-3" fill="#E9E9E9" x="303.333333" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="166.666667" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="235" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="371.666667" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="440" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="508.333333" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="576.666667" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="645" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="713.333333" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="781.666667" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="850" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="918.333333" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="986.666667" y="261" width="1" height="4"></rect>
+                    <rect id="Rectangle-8-Copy-4" fill="#E9E9E9" x="1055" y="261" width="1" height="4"></rect>
+                    <text id="15" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="0" y="211">15</tspan>
+                    </text>
+                    <text id="30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="0" y="161">30</tspan>
+                    </text>
+                    <text id="45" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="0" y="111">45</tspan>
+                    </text>
+                    <text id="60" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="0" y="61">60</tspan>
+                    </text>
+                    <path d="M30,111 L1056,111" id="Line-Copy-2" stroke="#E9E9E9" stroke-linecap="square" stroke-dasharray="3"></path>
+                    <path d="M30,61 L1056,61" id="Line-Copy-2" stroke="#E9E9E9" stroke-linecap="square" stroke-dasharray="3"></path>
+                    <text id="75" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="0" y="11">75</tspan>
+                    </text>
+                    <path d="M30,11 L1056,11" id="Line-Copy-2" stroke="#E9E9E9" stroke-linecap="square" stroke-dasharray="3"></path>
+                    <path d="M30,211 L1056,211" id="Line-Copy-2" stroke="#E9E9E9" stroke-linecap="square" stroke-dasharray="3"></path>
+                    <path d="M30,161 L1056,161" id="Line-Copy-2" stroke="#E9E9E9" stroke-linecap="square" stroke-dasharray="3"></path>
+                    <text id="10:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="15" y="284">10:00</tspan>
+                    </text>
+                    <text id="10:30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="83.3333333" y="284">10:30</tspan>
+                    </text>
+                    <text id="11:30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="220" y="284">11:30</tspan>
+                    </text>
+                    <text id="11:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="151.666667" y="284">11:00</tspan>
+                    </text>
+                    <text id="12:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="288.333333" y="284">12:00</tspan>
+                    </text>
+                    <text id="12:30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="356.666667" y="284">12:30</tspan>
+                    </text>
+                    <text id="13:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="425" y="284">13:00</tspan>
+                    </text>
+                    <text id="13:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="493.333333" y="284">13:00</tspan>
+                    </text>
+                    <text id="13:30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="561.666667" y="284">13:30</tspan>
+                    </text>
+                    <text id="14:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="630" y="284">14:00</tspan>
+                    </text>
+                    <text id="14:30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="698.333333" y="284">14:30</tspan>
+                    </text>
+                    <text id="15:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="766.666667" y="284">15:00</tspan>
+                    </text>
+                    <text id="15:30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="835" y="284">15:30</tspan>
+                    </text>
+                    <text id="16:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="903.333333" y="284">16:00</tspan>
+                    </text>
+                    <text id="16:30" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="971.666667" y="284">16:30</tspan>
+                    </text>
+                    <text id="17:00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="1040" y="284">17:00</tspan>
+                    </text>
+                    <text id="0" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" line-spacing="20" fill="#000000" fill-opacity="0.65">
+                        <tspan x="7" y="261">0</tspan>
+                    </text>
+                    <polygon id="Rectangle-20" fill-opacity="0.65" fill="#000000" points="375 11 376 11 376 260 375 260"></polygon>
+                    <polyline id="Path-2" stroke="#2FC25B" stroke-width="2" points="30 160.989587 92.2773666 179.489587 184.671762 160.989587 331.061834 185.226991 427.096089 116.339976 513.476905 184.144621 667.051008 146.019193 818.281756 146.019193 950.140363 72 1055 73.8533659"></polyline>
+                    <polyline id="Path-8" stroke="#1890FF" stroke-width="2" points="31 210.491812 93.4498273 193.016344 187.832739 220.368135 356.782652 118.014288 497.672126 138.727568 614.450433 73 878.049467 220.368135 1007.94498 101.194632 1055 121.441745"></polyline>
+                    <g id="Group-6" transform="translate(388.000000, 114.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill-opacity="0.75" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="2016-07-12-12:30" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="12" y="21">2016-07-12 12:30</tspan>
+                        </text>
+                        <text id="客流量：" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="27" y="49">客流量：</tspan>
+                        </text>
+                        <text id="42" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="83" y="47">42</tspan>
+                        </text>
+                        <circle id="Oval-1526-Copy-257" fill="#1890FF" cx="16" cy="45" r="3"></circle>
+                        <circle id="Oval-1526-Copy-257" fill="#2FC25B" cx="16" cy="71" r="3"></circle>
+                        <text id="支付笔数：" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="27" y="75">支付笔数：</tspan>
+                        </text>
+                        <text id="31" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="97" y="73">31</tspan>
+                        </text>
+                    </g>
+                    <path d="M376,117.5 C380.666667,117.5 380.666667,124.5 376,124.5 C371.333333,124.5 371.333333,117.5 376,117.5 Z" id="Shape" stroke="#FFFFFF" fill="#1890FF"></path>
+                    <path d="M376,149.5 C380.666667,149.5 380.666667,156.5 376,156.5 C371.333333,156.5 371.333333,149.5 376,149.5 Z" id="Shape" stroke="#FFFFFF" fill="#2FC25B"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

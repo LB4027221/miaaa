@@ -1,0 +1,55 @@
+query GET_EXT($_id: ID, $pageSize: Int!, $current: Int!, $components: [UpdateComponent]) {
+  user {
+    __typename
+    ext(_id: $_id) {
+      __typename
+      title
+      report {
+        __typename
+        cname
+        columns {
+          __typename
+          title
+          dataIndex
+          key
+        }
+        dataSource(pageSize: $pageSize, current: $current, components: $components){
+          __typename
+          id
+          row{
+            __typename
+            column
+            value
+          }
+        } 
+        total(components: $components)
+      }
+      linkReports {
+        __typename
+        cname
+        columns{
+          __typename
+          title
+          dataIndex
+          key
+        }
+        dataSource(pageSize: $pageSize, current: $current, components: $components){
+          __typename
+          id
+          row{
+            __typename
+            column
+            value
+          }
+        } 
+        total(components: $components)
+      }
+      linkExcel {
+        __typename
+        _id
+        title
+        data
+      }
+    }
+  }
+}

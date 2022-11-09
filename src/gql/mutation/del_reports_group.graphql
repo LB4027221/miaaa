@@ -1,0 +1,16 @@
+mutation ADD_REPORTS_GROUP($groupId: ID!) {
+  user {
+    __typename
+    delReportsGroup(groupId: $groupId) {
+      __typename
+      success
+      errorMessage
+      result{
+        __typename
+        _id
+        name
+        reportIds
+      }
+    }
+  }
+}

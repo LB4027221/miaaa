@@ -1,0 +1,45 @@
+# 字段
+type Meta {
+  _id: String
+  target: String
+  unit: String
+  child: String
+  passWhere: String
+  data: [String]
+  name: String
+  cname: String
+  type: String
+  annotate: String
+  alias: String
+  column: String
+  as: String
+  queryStr: String
+  expression: String
+  user: String
+  report: String
+  double: String
+  createAt: Date
+  updateAt: Date
+}
+input MetaInputType {
+  _id: String
+  target: String
+  unit: String
+  child: String
+  passWhere: String
+  name: String
+  cname: String
+  type: String
+  annotate: String
+  alias: String
+  expression: String
+  double: String
+  key: String
+}
+
+# 需求字段
+type RequirementMeta {
+  _id: String
+  alias: String
+  annotate: String
+}

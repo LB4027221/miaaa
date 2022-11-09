@@ -1,0 +1,9 @@
+subscription NOTICE($userId: ID!) {
+  notice(userId: $userId){
+    __typename
+    target
+    event
+    created
+    context
+  }
+}

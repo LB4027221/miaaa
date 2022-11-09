@@ -1,0 +1,31 @@
+query GET_USER_GRID {
+  user {
+    _id
+    __typename
+    myGrid {
+      __typename
+      _id
+      title
+      snapshot
+      description
+      items{
+        _id
+        __typename
+        i
+        x
+        y
+        w
+        h
+        chart {
+          _id
+          title
+          __typename
+          chartType
+          worksheet
+          report
+          conf
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+query GET_REQUIREMENT($id: ID!){
+  requirement:report(_id: $id){
+    __typename
+    _id
+    remarks
+    reportName:cname
+    isRealTime
+    tablefields:metaList{
+      __typename
+      _id
+      cname
+      annotate
+      alias
+    }
+  }
+}

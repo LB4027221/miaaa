@@ -1,0 +1,7 @@
+type Notification {
+  description: String
+  duration: Int
+  message: String
+  placement: String
+  type: String
+}

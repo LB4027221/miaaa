@@ -1,0 +1,11 @@
+mutation CREATE_EXCEL($arg: CreateExcelArg) {
+  user {
+    _id
+    __typename
+    createExcel(arg: $arg){
+      __typename
+      success
+      data
+    }
+  }
+}

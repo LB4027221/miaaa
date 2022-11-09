@@ -1,0 +1,11 @@
+query GET_SUBSCRIPTION {
+  user {
+    __typename
+    _id
+    subscription{
+      _id
+      __typename
+      chartId
+    }
+  }
+}

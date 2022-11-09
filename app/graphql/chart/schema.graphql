@@ -1,0 +1,22 @@
+type UpdateChartRes {
+  success: Boolean
+  data: Any
+}
+
+type RemoveChartRes {
+  success: Boolean
+}
+
+type Chart {
+  _id: ID
+  yAxis: Any
+  xAxis: String
+  title: String
+  chartType: String
+  conf: Any
+  report: String
+  data: Any
+  worksheet: String
+  tpl: Tpl
+  refs: [Chart]
+}

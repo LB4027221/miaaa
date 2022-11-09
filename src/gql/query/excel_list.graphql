@@ -1,0 +1,10 @@
+query GET_EXCEL_LIST {
+  user {
+    __typename
+    excelList {
+      __typename
+      _id
+      title
+    }
+  }
+}

@@ -1,0 +1,16 @@
+query GET_CHART_ALL_DATA($chartId: ID!) {
+  user {
+    __typename
+    _id
+    chart(chartId: $chartId) {
+      _id
+      title
+      __typename
+      data
+      chartType
+      worksheet
+      report
+      conf
+    }
+  }
+}

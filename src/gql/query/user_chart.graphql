@@ -1,0 +1,25 @@
+query GET_CHART_DATA {
+  user {
+    __typename
+    _id
+    reports {
+      ...on Report {
+        __typename
+        _id
+        charts{
+          _id
+          __typename
+          title
+          chartType
+          worksheet
+          report
+          conf
+        }
+      }
+      ...on Master {
+        __typename
+        _id
+      }
+    }
+  }
+}

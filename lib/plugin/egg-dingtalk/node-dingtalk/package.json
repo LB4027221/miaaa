@@ -1,0 +1,88 @@
+{
+  "_from": "node-dingtalk@^2.1.0",
+  "_id": "node-dingtalk@2.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-XnhxWhiuYcY08gSdsisBP4OZBYg=",
+  "_location": "/node-dingtalk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "node-dingtalk@^2.1.0",
+    "name": "node-dingtalk",
+    "escapedName": "node-dingtalk",
+    "rawSpec": "^2.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.1.0"
+  },
+  "_requiredBy": [
+    "/egg-dingtalk"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/node-dingtalk/download/node-dingtalk-2.1.0.tgz",
+  "_shasum": "5e78715a18ae61c634f2049db22b013f83990588",
+  "_spec": "node-dingtalk@^2.1.0",
+  "_where": "/Users/mac/project/sxc/server/miaaa/node_modules/egg-dingtalk",
+  "author": {
+    "name": "TZ",
+    "email": "atian25@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ali-sdk/node-dingtalk/issues"
+  },
+  "bundleDependencies": false,
+  "ci": {
+    "version": "8, 10"
+  },
+  "dependencies": {
+    "agentkeepalive": "^3.4.1",
+    "formstream": "^1.1.0",
+    "is-type-of": "^1.2.0",
+    "p-all": "^1.0.0",
+    "urllib": "^2.29.0",
+    "utility": "^1.14.0"
+  },
+  "deprecated": false,
+  "description": "dingtalk node sdk",
+  "devDependencies": {
+    "autod": "^3.0.1",
+    "co": "^4.6.0",
+    "egg-bin": "^4.7.1",
+    "egg-ci": "^1.8.0",
+    "eslint": "^5.2.0",
+    "eslint-config-egg": "^7.0.0",
+    "intelli-espower-loader": "^1.0.1",
+    "mm": "^2.2.2",
+    "mocha": "^5.2.0",
+    "mockjs": "^1.0.1-beta3",
+    "power-assert": "^1.6.0",
+    "proxy-agent": "^2.0.0",
+    "supertest": "^3.1.0",
+    "thunk-mocha": "^1.0.8"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/ali-sdk/node-dingtalk",
+  "keywords": [
+    "dingtalk"
+  ],
+  "license": "MIT",
+  "main": "lib/dingtalk.js",
+  "name": "node-dingtalk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-sdk//node-dingtalk.git"
+  },
+  "scripts": {
+    "autod": "autod",
+    "ci": "npm run lint && npm run cov",
+    "cov": "egg-bin cov",
+    "lint": "eslint --ext js . --fix",
+    "test": "npm run lint && npm run test-local",
+    "test-local": "egg-bin test"
+  },
+  "version": "2.1.0"
+}

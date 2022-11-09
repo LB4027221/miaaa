@@ -1,0 +1,13 @@
+query GET_REPORT_CHARTS($reportId: ID!){
+  report(_id: $reportId){
+    __typename
+    _id
+    ncharts{
+      __typename
+      title
+      chartType
+      _id
+      conf
+    }
+  }
+}

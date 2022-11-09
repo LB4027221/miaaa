@@ -1,0 +1,12 @@
+mutation EDIT_USER_FAVORITE($reportIds: [ID]!) {
+  user {
+    _id
+    __typename
+    editFavorite(reportIds: $reportIds){
+      __typename
+      success
+      errorMessage
+      result
+    }
+  }
+}

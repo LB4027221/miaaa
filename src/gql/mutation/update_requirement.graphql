@@ -1,0 +1,15 @@
+mutation UPDATE_REQUIREMENT($requirement: RequirementArgs!, $metaList: [RequirementMetaArgs]!) {
+  requirement:updateRequirement(requirement: $requirement) {
+    __typename
+    _id
+    remarks
+    reportName:cname
+    isRealTime
+    tablefields:metaList(metaList: $metaList){
+      __typename
+      _id
+      annotate
+      alias
+    }
+  }
+}

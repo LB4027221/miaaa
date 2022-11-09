@@ -1,0 +1,6318 @@
+{
+  "v": "5.4.1",
+  "fr": 30,
+  "ip": 143,
+  "op": 214,
+  "w": 800,
+  "h": 800,
+  "nm": "3种方案",
+  "ddd": 0,
+  "assets": [{
+    "id": "image_0",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_1",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_2",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_3",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_4",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_5",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_6",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_7",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_8",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_9",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_10",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_11",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_12",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_13",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_14",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_15",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_16",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-47-32313.png",
+    "e": 0
+  }, {
+    "id": "image_17",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_18",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_19",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_20",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_21",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_22",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_23",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_24",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_25",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_26",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_27",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_28",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_29",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_30",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_31",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_32",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_33",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_34",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_35",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "image_36",
+    "w": 2560,
+    "h": 1440,
+    "u": "https://sxc-item.oss-cn-hangzhou.aliyuncs.com/focus/item/",
+    "p": "2018-12-28-19-43-52-98022.png",
+    "e": 0
+  }, {
+    "id": "comp_0",
+    "layers": [{
+      "ddd": 0,
+      "ind": 1,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_0",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1280.101, 740.769, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1280.101, 740.769, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 193,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 199
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-15.542, 15.645],
+              [-15.542, -15.645],
+              [15.542, -15.645],
+              [15.542, 15.645]
+            ],
+            "o": [
+              [15.542, -15.645],
+              [15.542, 15.645],
+              [-15.542, 15.645],
+              [-15.542, -15.645]
+            ],
+            "v": [
+              [1251.96, 712.442],
+              [1308.242, 712.442],
+              [1308.242, 769.096],
+              [1251.96, 769.096]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }, {
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-15.542, 15.645],
+              [-15.542, -15.645],
+              [15.542, -15.645],
+              [15.542, 15.645]
+            ],
+            "o": [
+              [15.542, -15.645],
+              [15.542, 15.645],
+              [-15.542, 15.645],
+              [-15.542, -15.645]
+            ],
+            "v": [
+              [1251.96, 712.442],
+              [1308.242, 712.442],
+              [1308.242, 769.096],
+              [1251.96, 769.096]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 2"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 669,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 43,
+      "op": 943,
+      "st": 43,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 2,
+      "ty": 2,
+      "nm": "主x 拷贝",
+      "refId": "image_1",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1335.122, 685.471, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1335.122, 685.471, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 194,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 200
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-13.546, -13.635],
+              [-13.586, 13.676],
+              [13.546, 13.635],
+              [13.586, -13.676]
+            ],
+            "o": [
+              [13.546, 13.635],
+              [13.586, -13.676],
+              [-13.546, -13.635],
+              [-13.586, 13.676]
+            ],
+            "v": [
+              [1310.522, 710.233],
+              [1359.648, 710.16],
+              [1359.722, 660.709],
+              [1310.596, 660.782]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 669,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 43,
+      "op": 943,
+      "st": 43,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 3,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_2",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1335.122, 796.063, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1335.122, 796.063, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 195,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 201
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-13.58, 13.67],
+              [-13.586, -13.676],
+              [13.581, -13.67],
+              [13.586, 13.676]
+            ],
+            "o": [
+              [13.581, -13.67],
+              [13.586, 13.676],
+              [-13.58, 13.67],
+              [-13.586, -13.676]
+            ],
+            "v": [
+              [1310.522, 771.3],
+              [1359.712, 771.31],
+              [1359.722, 820.825],
+              [1310.532, 820.815]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1061,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 43,
+      "op": 943,
+      "st": 43,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 4,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_3",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1225.07, 685.48, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1225.07, 685.48, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 193,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 199
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-13.605, 13.646],
+              [13.61, 13.652],
+              [13.605, -13.646],
+              [-13.61, -13.651]
+            ],
+            "o": [
+              [13.605, -13.646],
+              [-13.61, -13.651],
+              [-13.604, 13.646],
+              [13.61, 13.652]
+            ],
+            "v": [
+              [1249.714, 710.198],
+              [1249.704, 660.772],
+              [1200.426, 660.762],
+              [1200.436, 710.188]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 483,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 43,
+      "op": 943,
+      "st": 43,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 5,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_4",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1225.07, 796.054, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1225.07, 796.054, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 196,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 202
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-13.57, -13.611],
+              [13.61, -13.652],
+              [13.57, 13.611],
+              [-13.61, 13.652]
+            ],
+            "o": [
+              [13.57, 13.611],
+              [-13.61, 13.652],
+              [-13.57, -13.611],
+              [13.61, -13.652]
+            ],
+            "v": [
+              [1249.714, 771.335],
+              [1249.64, 820.699],
+              [1200.427, 820.772],
+              [1200.5, 771.409]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 833,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 43,
+      "op": 943,
+      "st": 43,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 6,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_5",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1390.15, 630.192, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1390.15, 630.192, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 184,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 190
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.316, -11.39],
+              [-11.35, 11.425],
+              [11.316, 11.391],
+              [11.35, -11.425]
+            ],
+            "o": [
+              [11.316, 11.391],
+              [11.35, -11.425],
+              [-11.316, -11.39],
+              [-11.35, 11.425]
+            ],
+            "v": [
+              [1369.599, 650.879],
+              [1410.639, 650.817],
+              [1410.701, 609.505],
+              [1369.661, 609.568]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 915,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 7,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_6",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1390.15, 851.342, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1390.15, 851.342, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 182,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 188
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.345, 11.42],
+              [-11.35, -11.425],
+              [11.345, -11.42],
+              [11.35, 11.425]
+            ],
+            "o": [
+              [11.345, -11.42],
+              [11.35, 11.425],
+              [-11.345, 11.42],
+              [-11.35, -11.425]
+            ],
+            "v": [
+              [1369.599, 830.655],
+              [1410.692, 830.664],
+              [1410.701, 872.028],
+              [1369.608, 872.019]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1139,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 8,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_7",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1170.056, 630.187, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1170.056, 630.187, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 178,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 184
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.365, 11.399],
+              [11.37, 11.405],
+              [11.365, -11.399],
+              [-11.37, -11.405]
+            ],
+            "o": [
+              [11.365, -11.4],
+              [-11.37, -11.405],
+              [-11.365, 11.4],
+              [11.37, 11.405]
+            ],
+            "v": [
+              [1190.644, 650.837],
+              [1190.635, 609.546],
+              [1149.469, 609.537],
+              [1149.478, 650.828]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 2481,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 9,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_8",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u4e0d\\u900f\\u660e\\u5ea6 - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1170.056, 851.347, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1170.056, 851.347, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 180,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 186
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.336, -11.37],
+              [11.37, -11.405],
+              [11.336, 11.37],
+              [-11.37, 11.405]
+            ],
+            "o": [
+              [11.336, 11.37],
+              [-11.37, 11.405],
+              [-11.336, -11.37],
+              [11.37, -11.405]
+            ],
+            "v": [
+              [1190.644, 830.697],
+              [1190.582, 871.935],
+              [1149.469, 871.997],
+              [1149.531, 830.759]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1110,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 10,
+      "ty": 2,
+      "nm": "副x 拷贝 14",
+      "refId": "image_9",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1169.636, 740.518, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1169.636, 740.518, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 179,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 185
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [11.372, -11.339],
+              [11.377, 11.344],
+              [-11.372, 11.339],
+              [-11.377, -11.344]
+            ],
+            "o": [
+              [-11.372, 11.339],
+              [-11.377, -11.344],
+              [11.371, -11.339],
+              [11.376, 11.344]
+            ],
+            "v": [
+              [1190.469, 761.313],
+              [1149.28, 761.304],
+              [1149.271, 720.232],
+              [1190.46, 720.241]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }, {
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [11.376, 11.333],
+              [11.381, -11.339],
+              [-11.376, -11.334],
+              [-11.382, 11.339]
+            ],
+            "o": [
+              [-11.376, -11.333],
+              [-11.382, 11.339],
+              [11.377, 11.334],
+              [11.381, -11.339]
+            ],
+            "v": [
+              [1190.02, 719.723],
+              [1148.813, 719.732],
+              [1148.804, 760.784],
+              [1190.011, 760.775]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 2"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1139,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 11,
+      "ty": 2,
+      "nm": "副x 拷贝 6",
+      "refId": "image_10",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1390.313, 740.549, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1390.313, 740.549, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 183,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 189
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.376, -11.356],
+              [-11.381, 11.361],
+              [11.376, 11.356],
+              [11.381, -11.361]
+            ],
+            "o": [
+              [11.376, 11.356],
+              [11.381, -11.361],
+              [-11.376, -11.356],
+              [-11.381, 11.361]
+            ],
+            "v": [
+              [1369.472, 761.375],
+              [1410.677, 761.365],
+              [1410.686, 720.234],
+              [1369.481, 720.243]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }, {
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.381, 11.35],
+              [-11.386, -11.355],
+              [11.381, -11.35],
+              [11.386, 11.355]
+            ],
+            "o": [
+              [11.381, -11.35],
+              [11.386, 11.355],
+              [-11.381, 11.35],
+              [-11.386, -11.355]
+            ],
+            "v": [
+              [1369.921, 719.724],
+              [1411.144, 719.733],
+              [1411.153, 760.845],
+              [1369.93, 760.836]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 2"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 843,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 12,
+      "ty": 2,
+      "nm": "副x 拷贝 13",
+      "refId": "image_11",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1278.47, 629.661, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1278.47, 629.661, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 185,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 191
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [11.314, 11.355],
+              [-11.348, 11.389],
+              [-11.314, -11.355],
+              [11.348, -11.389]
+            ],
+            "o": [
+              [-11.314, -11.355],
+              [11.348, -11.389],
+              [11.314, 11.355],
+              [-11.348, 11.389]
+            ],
+            "v": [
+              [1257.668, 650.096],
+              [1257.73, 608.916],
+              [1298.763, 608.853],
+              [1298.701, 650.034]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }, {
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.308, 11.36],
+              [11.343, 11.394],
+              [11.309, -11.36],
+              [-11.343, -11.394]
+            ],
+            "o": [
+              [11.308, -11.359],
+              [-11.342, -11.394],
+              [-11.308, 11.359],
+              [11.343, 11.394]
+            ],
+            "v": [
+              [1299.272, 650.469],
+              [1299.21, 609.27],
+              [1258.197, 609.208],
+              [1258.259, 650.407]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 2"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 703,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 13,
+      "ty": 2,
+      "nm": "副x 拷贝 7",
+      "refId": "image_12",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1278.561, 851.161, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1278.561, 851.161, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 181,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 187
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-11.336, -11.37],
+              [11.37, -11.405],
+              [11.336, 11.37],
+              [-11.37, 11.405]
+            ],
+            "o": [
+              [11.336, 11.37],
+              [-11.37, 11.405],
+              [-11.336, -11.37],
+              [11.37, -11.405]
+            ],
+            "v": [
+              [1299.403, 830.697],
+              [1299.341, 871.935],
+              [1258.229, 871.997],
+              [1258.291, 830.759]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }, {
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [11.33, -11.375],
+              [-11.365, -11.409],
+              [-11.331, 11.375],
+              [11.365, 11.41]
+            ],
+            "o": [
+              [-11.33, 11.375],
+              [11.365, 11.409],
+              [11.33, -11.375],
+              [-11.365, -11.409]
+            ],
+            "v": [
+              [1257.719, 830.324],
+              [1257.781, 871.579],
+              [1298.873, 871.642],
+              [1298.812, 830.386]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 2"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1243,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 28,
+      "op": 928,
+      "st": 28,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 14,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_13",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1445.758, 574.315, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1445.758, 574.315, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 166,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 172
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.078, -9.139],
+              [-9.11, 9.17],
+              [9.079, 9.139],
+              [9.11, -9.17]
+            ],
+            "o": [
+              [9.079, 9.139],
+              [9.11, -9.17],
+              [-9.079, -9.139],
+              [-9.11, 9.17]
+            ],
+            "v": [
+              [1429.263, 590.918],
+              [1462.196, 590.862],
+              [1462.253, 557.711],
+              [1429.32, 557.768]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1283,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 15,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_14",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1445.758, 907.219, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1445.758, 907.219, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 169,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 175
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.102, 9.162],
+              [-9.11, -9.17],
+              [9.102, -9.162],
+              [9.11, 9.17]
+            ],
+            "o": [
+              [9.102, -9.162],
+              [9.11, 9.17],
+              [-9.102, 9.162],
+              [-9.11, -9.17]
+            ],
+            "v": [
+              [1429.263, 890.616],
+              [1462.239, 890.629],
+              [1462.253, 923.823],
+              [1429.277, 923.809]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 15,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 890,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 16,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_15",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1114.447, 574.31, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1114.447, 574.31, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 163,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 169
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.118, 9.146],
+              [9.126, 9.154],
+              [9.119, -9.146],
+              [-9.126, -9.154]
+            ],
+            "o": [
+              [9.118, -9.146],
+              [-9.126, -9.154],
+              [-9.118, 9.146],
+              [9.126, 9.154]
+            ],
+            "v": [
+              [1130.971, 590.885],
+              [1130.958, 557.75],
+              [1097.923, 557.736],
+              [1097.937, 590.871]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 108,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 17,
+      "ty": 2,
+      "nm": "主x",
+      "refId": "image_16",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1114.447, 907.223, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1114.447, 907.223, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 172,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 178
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.095, -9.122],
+              [9.126, -9.154],
+              [9.095, 9.122],
+              [-9.126, 9.154]
+            ],
+            "o": [
+              [9.095, 9.122],
+              [-9.126, 9.154],
+              [-9.095, -9.122],
+              [9.126, -9.154]
+            ],
+            "v": [
+              [1130.971, 890.649],
+              [1130.915, 923.741],
+              [1097.923, 923.798],
+              [1097.98, 890.706]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1627,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 18,
+      "ty": 2,
+      "nm": "副x 拷贝 14",
+      "refId": "image_17",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1114.131, 685.29, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1114.131, 685.29, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 174,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 180
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [9.123, -9.097],
+              [9.131, 9.105],
+              [-9.123, 9.097],
+              [-9.131, -9.105]
+            ],
+            "o": [
+              [-9.124, 9.098],
+              [-9.131, -9.105],
+              [9.124, -9.098],
+              [9.131, 9.105]
+            ],
+            "v": [
+              [1130.664, 701.776],
+              [1097.612, 701.763],
+              [1097.598, 668.804],
+              [1130.651, 668.818]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1845,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 19,
+      "ty": 2,
+      "nm": "副x 拷贝 14",
+      "refId": "image_18",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1113.649, 795.709, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1113.649, 795.709, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 173,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 179
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [9.128, 9.093],
+              [9.135, -9.101],
+              [-9.127, -9.093],
+              [-9.135, 9.101]
+            ],
+            "o": [
+              [-9.127, -9.093],
+              [-9.135, 9.101],
+              [9.127, 9.093],
+              [9.135, -9.101]
+            ],
+            "v": [
+              [1130.19, 779.231],
+              [1097.123, 779.244],
+              [1097.109, 812.187],
+              [1130.176, 812.173]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1920,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 20,
+      "ty": 2,
+      "nm": "副x 拷贝 4",
+      "refId": "image_19",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1445.84, 685.241, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1445.84, 685.241, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 167,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 173
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.127, -9.111],
+              [-9.135, 9.118],
+              [9.127, 9.111],
+              [9.135, -9.118]
+            ],
+            "o": [
+              [9.127, 9.111],
+              [9.135, -9.119],
+              [-9.127, -9.111],
+              [-9.135, 9.118]
+            ],
+            "v": [
+              [1429.3, 701.751],
+              [1462.366, 701.737],
+              [1462.38, 668.731],
+              [1429.314, 668.744]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1567,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 21,
+      "ty": 2,
+      "nm": "副x 拷贝 5",
+      "refId": "image_20",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1446.322, 795.821, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1446.322, 795.821, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 168,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 174
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.131, 9.106],
+              [-9.139, -9.114],
+              [9.131, -9.106],
+              [9.138, 9.114]
+            ],
+            "o": [
+              [9.131, -9.106],
+              [9.139, 9.114],
+              [-9.131, 9.106],
+              [-9.139, -9.114]
+            ],
+            "v": [
+              [1429.775, 779.318],
+              [1462.855, 779.332],
+              [1462.869, 812.323],
+              [1429.789, 812.309]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1735,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 22,
+      "ty": 2,
+      "nm": "副x 拷贝 13",
+      "refId": "image_21",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1333.717, 573.675, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1333.717, 573.675, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 165,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 171
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [9.077, 9.11],
+              [-9.109, 9.141],
+              [-9.077, -9.11],
+              [9.108, -9.141]
+            ],
+            "o": [
+              [-9.077, -9.11],
+              [9.108, -9.141],
+              [9.078, 9.11],
+              [-9.108, 9.141]
+            ],
+            "v": [
+              [1317.225, 590.227],
+              [1317.281, 557.18],
+              [1350.209, 557.124],
+              [1350.153, 590.17]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1068,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 23,
+      "ty": 2,
+      "nm": "副x 拷贝 13",
+      "refId": "image_22",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1223.26, 574.015, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1223.26, 574.015, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 164,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 170
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.073, 9.114],
+              [9.104, 9.145],
+              [9.073, -9.114],
+              [-9.104, -9.145]
+            ],
+            "o": [
+              [9.073, -9.114],
+              [-9.104, -9.145],
+              [-9.073, 9.114],
+              [9.104, 9.145]
+            ],
+            "v": [
+              [1239.744, 590.574],
+              [1239.688, 557.513],
+              [1206.777, 557.456],
+              [1206.833, 590.517]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 703,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 24,
+      "ty": 2,
+      "nm": "副x 拷贝 8",
+      "refId": "image_23",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1223.207, 907.223, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1223.207, 907.223, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 171,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 177
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-9.095, -9.122],
+              [9.126, -9.154],
+              [9.095, 9.122],
+              [-9.126, 9.154]
+            ],
+            "o": [
+              [9.095, 9.122],
+              [-9.126, 9.154],
+              [-9.095, -9.122],
+              [9.126, -9.154]
+            ],
+            "v": [
+              [1239.731, 890.649],
+              [1239.675, 923.741],
+              [1206.683, 923.798],
+              [1206.739, 890.706]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 740,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 25,
+      "ty": 2,
+      "nm": "副x 拷贝 9",
+      "refId": "image_24",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1333.878, 906.883, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1333.878, 906.883, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 170,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 176
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [9.09, -9.126],
+              [-9.121, -9.158],
+              [-9.09, 9.126],
+              [9.121, 9.158]
+            ],
+            "o": [
+              [-9.09, 9.126],
+              [9.122, 9.158],
+              [9.09, -9.126],
+              [-9.121, -9.158]
+            ],
+            "v": [
+              [1317.362, 890.302],
+              [1317.418, 923.408],
+              [1350.394, 923.465],
+              [1350.338, 890.358]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1379,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 13,
+      "op": 913,
+      "st": 13,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 26,
+      "ty": 2,
+      "nm": "副x 拷贝 14",
+      "refId": "image_25",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1058.995, 630.41, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1058.995, 630.41, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 151,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 157
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [7.214, -7.193],
+              [7.214, 7.193],
+              [-7.214, 7.193],
+              [-7.214, -7.193]
+            ],
+            "o": [
+              [-7.214, 7.193],
+              [-7.214, -7.193],
+              [7.214, -7.193],
+              [7.214, 7.193]
+            ],
+            "v": [
+              [1072.056, 643.435],
+              [1045.933, 643.435],
+              [1045.933, 617.386],
+              [1072.056, 617.386]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 782,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 27,
+      "ty": 2,
+      "nm": "副x 拷贝 14",
+      "refId": "image_26",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1058.489, 740.236, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1058.489, 740.236, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 152,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 158
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [7.217, 7.19],
+              [7.217, -7.19],
+              [-7.217, -7.19],
+              [-7.217, 7.19]
+            ],
+            "o": [
+              [-7.217, -7.19],
+              [-7.217, 7.19],
+              [7.217, 7.19],
+              [7.217, -7.19]
+            ],
+            "v": [
+              [1071.557, 727.218],
+              [1045.422, 727.218],
+              [1045.422, 753.254],
+              [1071.557, 753.254]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1142,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 28,
+      "ty": 2,
+      "nm": "副x 拷贝 14",
+      "refId": "image_27",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1058.489, 850.562, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1058.489, 850.562, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 153,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 159
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [7.217, 7.19],
+              [7.217, -7.19],
+              [-7.217, -7.19],
+              [-7.217, 7.19]
+            ],
+            "o": [
+              [-7.217, -7.19],
+              [-7.217, 7.19],
+              [7.217, 7.19],
+              [7.217, -7.19]
+            ],
+            "v": [
+              [1071.557, 837.544],
+              [1045.422, 837.544],
+              [1045.422, 863.58],
+              [1071.557, 863.58]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 782,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 29,
+      "ty": 2,
+      "nm": "副x 拷贝",
+      "refId": "image_28",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1500.998, 630.281, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1500.998, 630.281, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 159,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 165
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-7.216, -7.204],
+              [-7.217, 7.204],
+              [7.217, 7.204],
+              [7.217, -7.204]
+            ],
+            "o": [
+              [7.217, 7.204],
+              [7.217, -7.204],
+              [-7.217, -7.204],
+              [-7.216, 7.204]
+            ],
+            "v": [
+              [1487.931, 643.325],
+              [1514.065, 643.325],
+              [1514.065, 617.237],
+              [1487.931, 617.237]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1150,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 30,
+      "ty": 2,
+      "nm": "副x 拷贝 2",
+      "refId": "image_29",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1501.504, 740.267, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1501.504, 740.267, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 158,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 164
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-7.22, 7.2],
+              [-7.22, -7.2],
+              [7.22, -7.2],
+              [7.22, 7.2]
+            ],
+            "o": [
+              [7.22, -7.2],
+              [7.22, 7.2],
+              [-7.22, 7.2],
+              [-7.22, -7.2]
+            ],
+            "v": [
+              [1488.431, 727.23],
+              [1514.576, 727.23],
+              [1514.576, 753.304],
+              [1488.431, 753.304]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1481,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 31,
+      "ty": 2,
+      "nm": "副x 拷贝 3",
+      "refId": "image_30",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1501.504, 850.754, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1501.504, 850.754, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 157,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 163
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-7.22, 7.2],
+              [-7.22, -7.2],
+              [7.22, -7.2],
+              [7.22, 7.2]
+            ],
+            "o": [
+              [7.22, -7.2],
+              [7.22, 7.2],
+              [-7.22, 7.2],
+              [-7.22, -7.2]
+            ],
+            "v": [
+              [1488.431, 837.717],
+              [1514.576, 837.717],
+              [1514.576, 863.791],
+              [1488.431, 863.791]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 869,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 32,
+      "ty": 2,
+      "nm": "副x 拷贝 13",
+      "refId": "image_31",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1388.616, 518.479, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1388.616, 518.479, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 150,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 156
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [7.177, 7.203],
+              [-7.196, 7.222],
+              [-7.177, -7.203],
+              [7.196, -7.222]
+            ],
+            "o": [
+              [-7.177, -7.203],
+              [7.196, -7.222],
+              [7.177, 7.203],
+              [-7.196, 7.222]
+            ],
+            "v": [
+              [1375.587, 531.555],
+              [1375.62, 505.436],
+              [1401.645, 505.403],
+              [1401.611, 531.521]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1037,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 33,
+      "ty": 2,
+      "nm": "副x 拷贝 13",
+      "refId": "image_32",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1278.752, 518.795, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1278.752, 518.795, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 150,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 156
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-7.174, 7.206],
+              [7.192, 7.225],
+              [7.174, -7.206],
+              [-7.192, -7.225]
+            ],
+            "o": [
+              [7.174, -7.206],
+              [-7.192, -7.225],
+              [-7.174, 7.206],
+              [7.192, 7.225]
+            ],
+            "v": [
+              [1291.775, 531.877],
+              [1291.742, 505.747],
+              [1265.73, 505.713],
+              [1265.763, 531.843]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 895,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 34,
+      "ty": 2,
+      "nm": "副x 拷贝 13",
+      "refId": "image_33",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1168.389, 518.795, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1168.389, 518.795, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 150,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 156
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-7.173, 7.206],
+              [7.192, 7.225],
+              [7.174, -7.206],
+              [-7.192, -7.225]
+            ],
+            "o": [
+              [7.174, -7.206],
+              [-7.192, -7.225],
+              [-7.174, 7.206],
+              [7.192, 7.225]
+            ],
+            "v": [
+              [1181.411, 531.877],
+              [1181.378, 505.747],
+              [1155.366, 505.713],
+              [1155.399, 531.843]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 240,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 35,
+      "ty": 2,
+      "nm": "副x 拷贝 10",
+      "refId": "image_34",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1168.201, 962.496, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1168.201, 962.496, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 154,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 160
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [-7.191, -7.213],
+              [7.21, -7.232],
+              [7.191, 7.213],
+              [-7.21, 7.232]
+            ],
+            "o": [
+              [7.191, 7.213],
+              [-7.21, 7.232],
+              [-7.191, -7.213],
+              [7.21, -7.231]
+            ],
+            "v": [
+              [1181.256, 949.402],
+              [1181.222, 975.556],
+              [1155.147, 975.59],
+              [1155.181, 949.435]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1414,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 36,
+      "ty": 2,
+      "nm": "副x 拷贝 11",
+      "refId": "image_35",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1278.278, 962.179, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1278.278, 962.179, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 155,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 161
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [7.188, -7.216],
+              [-7.206, -7.235],
+              [-7.188, 7.216],
+              [7.206, 7.235]
+            ],
+            "o": [
+              [-7.188, 7.216],
+              [7.206, 7.235],
+              [7.188, -7.216],
+              [-7.206, -7.235]
+            ],
+            "v": [
+              [1265.23, 949.079],
+              [1265.264, 975.245],
+              [1291.326, 975.279],
+              [1291.293, 949.113]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 1049,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }, {
+      "ddd": 0,
+      "ind": 37,
+      "ty": 2,
+      "nm": "副x 拷贝 12",
+      "refId": "image_36",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [1388.857, 962.179, 0],
+          "ix": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [1388.857, 962.179, 0],
+          "ix": 1
+        },
+        "s": {
+          "a": 1,
+          "k": [{
+            "i": {
+              "x": [0.833, 0.833, 0.833],
+              "y": [0.833, 0.833, 0.833]
+            },
+            "o": {
+              "x": [0.167, 0.167, 0.167],
+              "y": [0.167, 0.167, 0.167]
+            },
+            "n": ["0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167", "0p833_0p833_0p167_0p167"],
+            "t": 156,
+            "s": [0, 0, 100],
+            "e": [100, 100, 100]
+          }, {
+            "t": 162
+          }],
+          "ix": 6,
+          "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u7f29\\u653e - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u7f29\\u653e - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u7f29\\u653e - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+        }
+      },
+      "ao": 0,
+      "hasMask": true,
+      "masksProperties": [{
+        "inv": false,
+        "mode": "a",
+        "pt": {
+          "a": 0,
+          "k": {
+            "i": [
+              [7.188, -7.216],
+              [-7.206, -7.235],
+              [-7.188, 7.216],
+              [7.206, 7.235]
+            ],
+            "o": [
+              [-7.188, 7.216],
+              [7.206, 7.235],
+              [7.188, -7.216],
+              [-7.206, -7.235]
+            ],
+            "v": [
+              [1375.809, 949.079],
+              [1375.842, 975.245],
+              [1401.905, 975.279],
+              [1401.871, 949.113]
+            ],
+            "c": true
+          },
+          "ix": 1
+        },
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 3
+        },
+        "x": {
+          "a": 0,
+          "k": 0,
+          "ix": 4
+        },
+        "nm": "蒙版 1"
+      }],
+      "ef": [{
+        "ty": 5,
+        "nm": "缩放 - Overshoot",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 1,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 20,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Bounce",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 2,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 40,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }, {
+        "ty": 5,
+        "nm": "缩放 - Friction",
+        "np": 3,
+        "mn": "ADBE Slider Control",
+        "ix": 3,
+        "en": 1,
+        "ef": [{
+          "ty": 0,
+          "nm": "滑块",
+          "mn": "ADBE Slider Control-0001",
+          "ix": 1,
+          "v": {
+            "a": 0,
+            "k": 902,
+            "ix": 1,
+            "x": "var $bm_rt;\n$bm_rt = clamp(value, 0, 100);"
+          }
+        }]
+      }],
+      "ip": 0,
+      "op": 900,
+      "st": 0,
+      "bm": 0
+    }]
+  }],
+  "layers": [{
+    "ddd": 0,
+    "ind": 1,
+    "ty": 0,
+    "nm": "比较慢的出现",
+    "refId": "comp_0",
+    "sr": 1,
+    "ks": {
+      "o": {
+        "a": 0,
+        "k": 100,
+        "ix": 11
+      },
+      "r": {
+        "a": 1,
+        "k": [{
+          "i": {
+            "x": [0],
+            "y": [1]
+          },
+          "o": {
+            "x": [0.167],
+            "y": [0.148]
+          },
+          "n": ["0_1_0p167_0p148"],
+          "t": 143,
+          "s": [45],
+          "e": [810]
+        }, {
+          "t": 215
+        }],
+        "ix": 10,
+        "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u65cb\\u8f6c - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u65cb\\u8f6c - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u65cb\\u8f6c - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+      },
+      "p": {
+        "a": 0,
+        "k": [420, 400, 0],
+        "ix": 2
+      },
+      "a": {
+        "a": 0,
+        "k": [1280, 720, 0],
+        "ix": 1
+      },
+      "s": {
+        "a": 1,
+        "k": [{
+          "i": {
+            "x": [0, 0, 0],
+            "y": [1, 1, 1]
+          },
+          "o": {
+            "x": [0.167, 0.167, 0.167],
+            "y": [0.279, 0.279, 0]
+          },
+          "n": ["0_1_0p167_0p279", "0_1_0p167_0p279", "0_1_0p167_0"],
+          "t": 143,
+          "s": [0, 0, 100],
+          "e": [100, 100, 100]
+        }, {
+          "t": 215
+        }],
+        "ix": 6
+      }
+    },
+    "ao": 0,
+    "w": 2560,
+    "h": 1440,
+    "ip": 0,
+    "op": 216,
+    "st": 0,
+    "bm": 0
+  }, {
+    "ddd": 0,
+    "ind": 2,
+    "ty": 0,
+    "nm": "比较慢的出现",
+    "refId": "comp_0",
+    "sr": -1,
+    "ks": {
+      "o": {
+        "a": 0,
+        "k": 100,
+        "ix": 11
+      },
+      "r": {
+        "a": 1,
+        "k": [{
+          "i": {
+            "x": [0],
+            "y": [1]
+          },
+          "o": {
+            "x": [0.167],
+            "y": [-0.151]
+          },
+          "n": ["0_1_0p167_-0p151"],
+          "t": 280,
+          "s": [45],
+          "e": [-630]
+        }, {
+          "t": 214.999765625
+        }],
+        "ix": 10,
+        "x": "var $bm_rt;\nvar amp, freq, decay, n, t, v;\ntry {\n    amp = div(effect('\\u65cb\\u8f6c - Overshoot')('ADBE Slider Control-0001'), 2.5), freq = div(effect('\\u65cb\\u8f6c - Bounce')('ADBE Slider Control-0001'), 20), decay = div(effect('\\u65cb\\u8f6c - Friction')('ADBE Slider Control-0001'), 20), n = 0, 0 < numKeys && (n = nearestKey(time).index, key(n).time > time && n--), t = 0 === n ? 0 : sub(time, key(n).time), $bm_rt = 0 < n ? (v = velocityAtTime(sub(key(n).time, div(thisComp.frameDuration, 10))), sum(value, div(mul(mul(div(v, 100), amp), Math.sin(mul(mul(mul(freq, t), 2), Math.PI))), Math.exp(mul(decay, t))))) : value;\n} catch (e$$4) {\n    $bm_rt = value = value;\n}"
+      },
+      "p": {
+        "a": 0,
+        "k": [420, 400, 0],
+        "ix": 2
+      },
+      "a": {
+        "a": 0,
+        "k": [1280, 720, 0],
+        "ix": 1
+      },
+      "s": {
+        "a": 1,
+        "k": [{
+          "i": {
+            "x": [0, 0, 0],
+            "y": [1, 1, 1]
+          },
+          "o": {
+            "x": [0.167, 0.167, 0.167],
+            "y": [0.252, 0.252, 0]
+          },
+          "n": ["0_1_0p167_0p252", "0_1_0p167_0p252", "0_1_0p167_0"],
+          "t": 280,
+          "s": [0, 0, 100],
+          "e": [100, 100, 100]
+        }, {
+          "t": 214.999765625
+        }],
+        "ix": 6
+      }
+    },
+    "ao": 0,
+    "w": 2560,
+    "h": 1440,
+    "ip": 286.99,
+    "op": 215,
+    "st": 429,
+    "bm": 0
+  }],
+  "markers": []
+}

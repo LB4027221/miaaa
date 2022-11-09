@@ -1,0 +1,33 @@
+query GET_GRID_LIST {
+  user {
+    _id
+    __typename
+    gridList {
+      __typename
+      _id
+      title
+      snapshot
+      status
+      sort
+      description
+      items{
+        __typename
+        _id
+        i
+        x
+        y
+        w
+        h
+        chart {
+          _id
+          title
+          __typename
+          chartType
+          worksheet
+          report
+          conf
+        }
+      }
+    }
+  }
+}

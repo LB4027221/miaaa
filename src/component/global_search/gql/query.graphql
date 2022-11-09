@@ -1,0 +1,15 @@
+query GET_USER_MENU {
+  user {
+    reports{
+      ...on Report{
+        _id
+        cname
+        sort
+      }
+      ...on Master{
+        _id
+        cname
+      }
+    }
+  }
+}

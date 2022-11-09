@@ -1,0 +1,52 @@
+# 概要
+type Summary {
+  _id: ID
+  cname: String
+  alias: String
+  dataSource(user: AppUser): [SummaryDataSource]
+  tags: [String]
+  child: SummaryChildren
+  children: [SummaryChildren]
+}
+
+# 概要数据
+type SummaryDataSource {
+  id: ID
+  title: String,
+  value: String
+}
+
+# 概要子路由
+type SummaryChildren {
+  _id: ID
+  cname: String
+  alias: String
+  components(name: String, user: AppUser): [Component]
+  business(user: AppUser): [Component]
+  cat(user: AppUser): [Component]
+  city(user: AppUser): [Component]
+  pickHouseComp(user: AppUser): [Component]
+}
+
+input InputCityList {
+  cityCode: Int
+  cityName: String
+}
+
+input InputStorehouseList {
+  storehouseId: Int
+  storehouseName: String
+}
+
+input AppUser {
+  userId: Int
+  catPm: Int
+  selectPickhouse: String
+  selectedCity: String
+  cityCode: Int
+  cityList: [InputCityList]
+  userName: String
+  userType: Int
+  storehouseId: String
+  storehouseList: [InputStorehouseList]
+}

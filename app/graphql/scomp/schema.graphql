@@ -1,0 +1,22 @@
+type Scomp {
+  _id: ID
+  name: String
+  cname: String
+  state: Int
+  sql: String
+}
+
+input ScompInput {
+  cname: String!
+  sql: String!
+}
+
+input EditScompInput {
+  _id: ID
+  cname: String!
+  sql: String!
+}
+
+type ScompRes {
+  success: Boolean
+}
